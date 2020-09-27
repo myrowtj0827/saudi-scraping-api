@@ -20,8 +20,8 @@ module.exports = {
 	 * This setting is used only for the content of the mails with link to ... (in forgot-password)
 	 */
 
-	FRONT_URL: "http://localhost:3000",
-	// FRONT_URL: "http://198.12.254.183",
+	//FRONT_URL: "http://localhost:3000",
+	FRONT_URL: "https://vigorous-golick-f5efa9.netlify.app/",
 
 
 	/**

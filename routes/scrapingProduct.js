@@ -7,9 +7,6 @@ const axios = require("axios");
 const request = require('request');
 const cheerio = require('cheerio');
 
-
-
-
 let goLink = [];
 let mLen;
 
@@ -357,7 +354,7 @@ router.get("/scraping-product-all", async (req, res) => {
     });
 });
 
-router.post("/scraping-product-sort", (req, res) => {
+router.all("/scraping-product-sort", (req, res) => {
     let pStr = req.body.category;
     let pSplit = pStr.split(' ');
 
@@ -384,7 +381,7 @@ router.post("/scraping-product-sort", (req, res) => {
     });
 });
 
-router.post("/delete-product", async (req, res) => {
+router.all("/delete-product", async (req, res) => {
     const scraping_Product = new ScrapingProduct({
         scraping_id: 0,
         scraping_store_address: '',
