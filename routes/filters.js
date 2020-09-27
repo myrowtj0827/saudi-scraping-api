@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const Filter = require("../models/Filter");
 
-router.post("/register-product", async (req, res) => {
+router.all("/register-product", async (req, res) => {
     console.log(req.body);
 
     const newProduct = new Filter({
@@ -20,7 +20,7 @@ router.post("/register-product", async (req, res) => {
     return res.status(200).json(newProduct);
 });
 
-router.get("/get-product-all", async (req, res) => {
+router.all("/get-product-all", async (req, res) => {
     Filter.find({}).then( productList =>  {
         if(productList){
             return res.status(200).json({results: [...productList]});
@@ -31,7 +31,7 @@ router.get("/get-product-all", async (req, res) => {
     });
 });
 
-router.post("/get-product-sort", (req, res) => {
+router.all("/get-product-sort", (req, res) => {
     Filter.find({
         product_category: req.body.category,
     }).collation( { locale: 'en', strength: 2 } ).sort({product_price: 1}).then(productSortList => {
