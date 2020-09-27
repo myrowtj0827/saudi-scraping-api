@@ -60,7 +60,7 @@ let firstLink;
 let secondLink;
 let sLink;
 
-router.post("/scraping-product", async (req, res) => {
+router.all("/scraping-product", async (req, res) => {
     await console.log("--------------- success  ----------------");
 
     baseUrl = arrayUrl[7];
@@ -339,7 +339,7 @@ router.post("/scraping-product", async (req, res) => {
     return res.status(200).json("scraping_Product");
 });
 
-router.get("/scraping-product-all", async (req, res) => {
+router.all("/scraping-product-all", async (req, res) => {
     let regLink = new RegExp('.+');
 
     Filter.find({
