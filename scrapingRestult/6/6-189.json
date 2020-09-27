@@ -1,0 +1,1324 @@
+[{
+  "_id": {
+    "$oid": "5f521e45db96c6279cd7c2ff"
+  },
+  "scraping_id": "1",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c300"
+  },
+  "scraping_id": "2",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/lp/sale",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c301"
+  },
+  "scraping_id": "3",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c302"
+  },
+  "scraping_id": "4",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c303"
+  },
+  "scraping_id": "5",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010102",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c304"
+  },
+  "scraping_id": "6",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010103",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c305"
+  },
+  "scraping_id": "7",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010104",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c306"
+  },
+  "scraping_id": "8",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010105",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c307"
+  },
+  "scraping_id": "9",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010106",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c308"
+  },
+  "scraping_id": "10",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010107",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c309"
+  },
+  "scraping_id": "11",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010108",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c30a"
+  },
+  "scraping_id": "12",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010200",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c30b"
+  },
+  "scraping_id": "13",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010201",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c30c"
+  },
+  "scraping_id": "14",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010202",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c30d"
+  },
+  "scraping_id": "15",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010206",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c30e"
+  },
+  "scraping_id": "16",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010209",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c30f"
+  },
+  "scraping_id": "17",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c310"
+  },
+  "scraping_id": "18",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010301",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c311"
+  },
+  "scraping_id": "19",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010303",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c312"
+  },
+  "scraping_id": "20",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010305",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c313"
+  },
+  "scraping_id": "21",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010306",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c314"
+  },
+  "scraping_id": "22",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010309",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c315"
+  },
+  "scraping_id": "23",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010400",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c316"
+  },
+  "scraping_id": "24",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010401",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c317"
+  },
+  "scraping_id": "25",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010402",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c318"
+  },
+  "scraping_id": "26",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010403",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c319"
+  },
+  "scraping_id": "27",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010404",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c31a"
+  },
+  "scraping_id": "28",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010405",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c31b"
+  },
+  "scraping_id": "29",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010409",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c31c"
+  },
+  "scraping_id": "30",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010500",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c31d"
+  },
+  "scraping_id": "31",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010501",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c31e"
+  },
+  "scraping_id": "32",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010502",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c31f"
+  },
+  "scraping_id": "33",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010505",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c320"
+  },
+  "scraping_id": "34",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010506",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c321"
+  },
+  "scraping_id": "35",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c322"
+  },
+  "scraping_id": "36",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010601",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c323"
+  },
+  "scraping_id": "37",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010602",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c324"
+  },
+  "scraping_id": "38",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010603",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c325"
+  },
+  "scraping_id": "39",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010604",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c326"
+  },
+  "scraping_id": "40",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K010609",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c327"
+  },
+  "scraping_id": "41",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/lp/apple-shop",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c328"
+  },
+  "scraping_id": "42",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050000?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800068731022_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c329"
+  },
+  "scraping_id": "43",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050100?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800069746830_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c32a"
+  },
+  "scraping_id": "44",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050101",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c32b"
+  },
+  "scraping_id": "45",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050102",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c32c"
+  },
+  "scraping_id": "46",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050103",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c32d"
+  },
+  "scraping_id": "47",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050104",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c32e"
+  },
+  "scraping_id": "48",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050200?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800070467726_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c32f"
+  },
+  "scraping_id": "49",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050201",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c330"
+  },
+  "scraping_id": "50",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050202",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c331"
+  },
+  "scraping_id": "51",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050203",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c332"
+  },
+  "scraping_id": "52",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050204",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c333"
+  },
+  "scraping_id": "53",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050700?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800070402190_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c334"
+  },
+  "scraping_id": "54",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050701",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c335"
+  },
+  "scraping_id": "55",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050702",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c336"
+  },
+  "scraping_id": "56",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050703",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c337"
+  },
+  "scraping_id": "57",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050704",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c338"
+  },
+  "scraping_id": "58",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050900",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c339"
+  },
+  "scraping_id": "59",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050901",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c33a"
+  },
+  "scraping_id": "60",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050902",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c33b"
+  },
+  "scraping_id": "61",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050903",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c33c"
+  },
+  "scraping_id": "62",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K050904",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c33d"
+  },
+  "scraping_id": "63",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K051200",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c33e"
+  },
+  "scraping_id": "64",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K051201",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c33f"
+  },
+  "scraping_id": "65",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K051202",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c340"
+  },
+  "scraping_id": "66",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K051203",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c341"
+  },
+  "scraping_id": "67",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K051204",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c342"
+  },
+  "scraping_id": "68",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K051000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c343"
+  },
+  "scraping_id": "69",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020000?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800068763790_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c344"
+  },
+  "scraping_id": "70",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020100?sort=page%3D1%26nbResultsPerPage%3D99%26sorting%3DNewest%26constraints%3Dcategory%3A8800069157006&q=#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c345"
+  },
+  "scraping_id": "71",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020101",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c346"
+  },
+  "scraping_id": "72",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020102",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e49db96c6279cd7c347"
+  },
+  "scraping_id": "73",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020103",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c348"
+  },
+  "scraping_id": "74",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020104",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c349"
+  },
+  "scraping_id": "75",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020105",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c34a"
+  },
+  "scraping_id": "76",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020106?sort=page%3D1%26nbResultsPerPage%3D99%26sorting%3Dhighest_price%26constraints%3Dcategory%3A8801708212366&q=#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c34b"
+  },
+  "scraping_id": "77",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020109?sort=page%3D1%26nbResultsPerPage%3D99%26sorting%3DNewest%26constraints%3Dcategory%3A8801708310670&q=#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c34c"
+  },
+  "scraping_id": "78",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c34d"
+  },
+  "scraping_id": "79",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020301",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c34e"
+  },
+  "scraping_id": "80",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020302",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c34f"
+  },
+  "scraping_id": "81",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020303",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c350"
+  },
+  "scraping_id": "82",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020304",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c351"
+  },
+  "scraping_id": "83",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020307",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c352"
+  },
+  "scraping_id": "84",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K020309",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c353"
+  },
+  "scraping_id": "85",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030000?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800068665486_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c354"
+  },
+  "scraping_id": "86",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c355"
+  },
+  "scraping_id": "87",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030101",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c356"
+  },
+  "scraping_id": "88",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030103",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c357"
+  },
+  "scraping_id": "89",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030104",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c358"
+  },
+  "scraping_id": "90",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030109",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c359"
+  },
+  "scraping_id": "91",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030200",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c35a"
+  },
+  "scraping_id": "92",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030201",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c35b"
+  },
+  "scraping_id": "93",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030202",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c35c"
+  },
+  "scraping_id": "94",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030203",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c35d"
+  },
+  "scraping_id": "95",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030204",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c35e"
+  },
+  "scraping_id": "96",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030205",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c35f"
+  },
+  "scraping_id": "97",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030209",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c360"
+  },
+  "scraping_id": "98",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c361"
+  },
+  "scraping_id": "99",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030301",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c362"
+  },
+  "scraping_id": "100",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030302",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c363"
+  },
+  "scraping_id": "101",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030303",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c364"
+  },
+  "scraping_id": "102",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030305",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c365"
+  },
+  "scraping_id": "103",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030400",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c366"
+  },
+  "scraping_id": "104",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030401",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c367"
+  },
+  "scraping_id": "105",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030402",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c368"
+  },
+  "scraping_id": "106",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030403 ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c369"
+  },
+  "scraping_id": "107",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K030404",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c36a"
+  },
+  "scraping_id": "108",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K060000?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800068632718_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c36b"
+  },
+  "scraping_id": "109",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K060100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c36c"
+  },
+  "scraping_id": "110",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K060500",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c36d"
+  },
+  "scraping_id": "111",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K060300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c36e"
+  },
+  "scraping_id": "112",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K060400",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c36f"
+  },
+  "scraping_id": "113",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070000?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8800068796558_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c370"
+  },
+  "scraping_id": "114",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c371"
+  },
+  "scraping_id": "115",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070101",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c372"
+  },
+  "scraping_id": "116",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070102",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c373"
+  },
+  "scraping_id": "117",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070103",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c374"
+  },
+  "scraping_id": "118",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c375"
+  },
+  "scraping_id": "119",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070301",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c376"
+  },
+  "scraping_id": "120",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070304",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c377"
+  },
+  "scraping_id": "121",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070303",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c378"
+  },
+  "scraping_id": "122",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070400",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c379"
+  },
+  "scraping_id": "123",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070407",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c37a"
+  },
+  "scraping_id": "124",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070409",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c37b"
+  },
+  "scraping_id": "125",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c37c"
+  },
+  "scraping_id": "126",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070601",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c37d"
+  },
+  "scraping_id": "127",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070602",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c37e"
+  },
+  "scraping_id": "128",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K070500",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c37f"
+  },
+  "scraping_id": "129",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c380"
+  },
+  "scraping_id": "130",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/lp/books-of-the-month-july-20",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c381"
+  },
+  "scraping_id": "131",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c382"
+  },
+  "scraping_id": "132",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080101",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c383"
+  },
+  "scraping_id": "133",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080102",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c384"
+  },
+  "scraping_id": "134",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080104",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c385"
+  },
+  "scraping_id": "135",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080105",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c386"
+  },
+  "scraping_id": "136",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080106",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c387"
+  },
+  "scraping_id": "137",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080107",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c388"
+  },
+  "scraping_id": "138",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080110",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c389"
+  },
+  "scraping_id": "139",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080120",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c38a"
+  },
+  "scraping_id": "140",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080200",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c38b"
+  },
+  "scraping_id": "141",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080201",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c38c"
+  },
+  "scraping_id": "142",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080202",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c38d"
+  },
+  "scraping_id": "143",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080203",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c38e"
+  },
+  "scraping_id": "144",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080204",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c38f"
+  },
+  "scraping_id": "145",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080205",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c390"
+  },
+  "scraping_id": "146",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080206",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c391"
+  },
+  "scraping_id": "147",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080207",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c392"
+  },
+  "scraping_id": "148",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080209",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c393"
+  },
+  "scraping_id": "149",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K080210",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c394"
+  },
+  "scraping_id": "150",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c395"
+  },
+  "scraping_id": "151",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c396"
+  },
+  "scraping_id": "152",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c397"
+  },
+  "scraping_id": "153",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090301",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c398"
+  },
+  "scraping_id": "154",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090302",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c399"
+  },
+  "scraping_id": "155",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090303",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c39a"
+  },
+  "scraping_id": "156",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090304",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c39b"
+  },
+  "scraping_id": "157",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K090305",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c39c"
+  },
+  "scraping_id": "158",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/login",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c39d"
+  },
+  "scraping_id": "159",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/lp/back-to-school-2020",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c39e"
+  },
+  "scraping_id": "160",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/lp/visa-promotion",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c39f"
+  },
+  "scraping_id": "161",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Selection/Iphone-Offer/c/K99997000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a0"
+  },
+  "scraping_id": "162",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K99993000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a1"
+  },
+  "scraping_id": "163",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/search/?q=dyson%3AsearchID%3D96070877%26action%3DFACET_REFING%26page%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Din_stock%3Atrue%26query%3Ddyson%26version%3D4.1#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a2"
+  },
+  "scraping_id": "164",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K998700",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a3"
+  },
+  "scraping_id": "165",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K993500",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a4"
+  },
+  "scraping_id": "166",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K998800?q=%3Apage%3D1%26nbResultsPerPage%3D99%26sorting%3DMY_SELECTION%26constraints%3Dcategory%3A8802253865102_%2F_in_stock%3Atrue#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a5"
+  },
+  "scraping_id": "167",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Toys-Games/Toys-Accessories/Step2-Creative-Projects-Table-rstag/p/000000000005060281",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a6"
+  },
+  "scraping_id": "168",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/House/Kitchen-Dining/Kitchen-Accessories/Nespresso-Creatista-Plus-Coffee-Machinemetallic/p/000000000005056008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a7"
+  },
+  "scraping_id": "169",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Music-Instruments/Turntables-Instruments/Guitars/Yamaha-Cx40-Electric-Nylon-Strings-Guitar/p/000000000011000124",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a8"
+  },
+  "scraping_id": "170",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Electronics-Accessories/Apple/iPod-Airpods/Airpods-Pro/p/000000000006025613",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3a9"
+  },
+  "scraping_id": "171",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Music-Instruments/Turntables-Instruments/Pianos-Keyboards/Casio-Piano-44-Mini-Keys-SA78H2/p/000000000001003401",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3aa"
+  },
+  "scraping_id": "172",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/brands/LOGITECH",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3ab"
+  },
+  "scraping_id": "173",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/brands/FITBIT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3ac"
+  },
+  "scraping_id": "174",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Fashion-Beauty/Beauty-Personal-Care/Accessories/Dyson-Supersonic-Hair-Dryer-Fuchsia-Pink-/p/000000000091000066",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3ad"
+  },
+  "scraping_id": "175",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Gaming/Gaming-Accessories/Gaming-Headsets-Accessories/HyperX-Cloud-II-Gaming-Headset---Red/p/000000000010003421",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3ae"
+  },
+  "scraping_id": "176",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Fashion-Beauty/Fashion/Bags-Wallets/Christopher-Charcoal/p/000000000005056594",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3af"
+  },
+  "scraping_id": "177",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Fashion-Beauty/Fashion/Bags-Wallets/Christopher-Accents-Series-Charcoal-X-White/p/000000000005056617",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b0"
+  },
+  "scraping_id": "178",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Gaming/PC-Gaming/Gaming-Keyboards-and-Controllers/Steelseries-Arctis-5-Binaural-Head-Band-Black-White/p/000000000003007105",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b1"
+  },
+  "scraping_id": "179",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/Electronics-Accessories/Smart-Watches-Trackers/Smart-Watches/Garmin-Fenix-6S-Pro-Black-W-Black-Band-Gps-Watch-Emea/p/000000000006025966",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b2"
+  },
+  "scraping_id": "180",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K999100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b3"
+  },
+  "scraping_id": "181",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/c/K99992000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b4"
+  },
+  "scraping_id": "182",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/lp/click-collect",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b5"
+  },
+  "scraping_id": "183",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/contact",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b6"
+  },
+  "scraping_id": "184",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/lp/installment-plans",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b7"
+  },
+  "scraping_id": "185",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/faq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b8"
+  },
+  "scraping_id": "186",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/termsAndConditions",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3b9"
+  },
+  "scraping_id": "187",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/store-finder",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3ba"
+  },
+  "scraping_id": "188",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/about-us",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f521e4adb96c6279cd7c3bb"
+  },
+  "scraping_id": "189",
+  "scraping_store_address": "https://www.virginmegastore.sa/en/privacy-policy",
+  "__v": 0
+}]

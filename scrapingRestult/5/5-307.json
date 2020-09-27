@@ -1,0 +1,2150 @@
+[{
+  "_id": {
+    "$oid": "5f4fdfd1e2056f0fb5d0928d"
+  },
+  "scraping_id": "1",
+  "scraping_store_address": "https://blackbox.com.sa/en/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0928e"
+  },
+  "scraping_id": "2",
+  "scraping_store_address": "tel:920003222",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0928f"
+  },
+  "scraping_id": "3",
+  "scraping_store_address": "https://blackbox.com.sa/en/showrooms/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09290"
+  },
+  "scraping_id": "4",
+  "scraping_store_address": "#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09291"
+  },
+  "scraping_id": "5",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09292"
+  },
+  "scraping_id": "6",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09293"
+  },
+  "scraping_id": "7",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09294"
+  },
+  "scraping_id": "8",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles/apple.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09295"
+  },
+  "scraping_id": "9",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles/samsung.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09296"
+  },
+  "scraping_id": "10",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles/samsung/samsung-galaxy-note-20-ultra.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09297"
+  },
+  "scraping_id": "11",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles/huawei.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09298"
+  },
+  "scraping_id": "12",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles/honner.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09299"
+  },
+  "scraping_id": "13",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/tablets.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0929a"
+  },
+  "scraping_id": "14",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/accessories.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0929b"
+  },
+  "scraping_id": "15",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/accessories/headsets.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0929c"
+  },
+  "scraping_id": "16",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/accessories/power-banks.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0929d"
+  },
+  "scraping_id": "17",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/accessories/covers-protection.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0929e"
+  },
+  "scraping_id": "18",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/accessories/mobiles-accessories-offers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0929f"
+  },
+  "scraping_id": "19",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/accessories/routers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a0"
+  },
+  "scraping_id": "20",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles-offers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a1"
+  },
+  "scraping_id": "21",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/telephones.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a2"
+  },
+  "scraping_id": "22",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a3"
+  },
+  "scraping_id": "23",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a4"
+  },
+  "scraping_id": "24",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops/apple.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a5"
+  },
+  "scraping_id": "25",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops/dell.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a6"
+  },
+  "scraping_id": "26",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops/hp.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a7"
+  },
+  "scraping_id": "27",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops/lenovo.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a8"
+  },
+  "scraping_id": "28",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops/acer.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092a9"
+  },
+  "scraping_id": "29",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/desktop-computer.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092aa"
+  },
+  "scraping_id": "30",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/tablet-notebook.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ab"
+  },
+  "scraping_id": "31",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/projectors.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ac"
+  },
+  "scraping_id": "32",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops-pc-accessories.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ad"
+  },
+  "scraping_id": "33",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops-pc-accessories/laptops-bags.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ae"
+  },
+  "scraping_id": "34",
+  "scraping_store_address": "https://blackbox.com.sa/en/printers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092af"
+  },
+  "scraping_id": "35",
+  "scraping_store_address": "https://blackbox.com.sa/en/printers/samsung.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b0"
+  },
+  "scraping_id": "36",
+  "scraping_store_address": "https://blackbox.com.sa/en/printers/hp.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b1"
+  },
+  "scraping_id": "37",
+  "scraping_store_address": "https://blackbox.com.sa/en/printers/canon.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b2"
+  },
+  "scraping_id": "38",
+  "scraping_store_address": "https://blackbox.com.sa/en/printers/brother.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b3"
+  },
+  "scraping_id": "39",
+  "scraping_store_address": "https://blackbox.com.sa/en/printers/other-brands.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b4"
+  },
+  "scraping_id": "40",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/printer-inks.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b5"
+  },
+  "scraping_id": "41",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b6"
+  },
+  "scraping_id": "42",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/tv-shop.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b7"
+  },
+  "scraping_id": "43",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/tv-shop/all-tvs.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b8"
+  },
+  "scraping_id": "44",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/tvs-32-to-40-inch.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092b9"
+  },
+  "scraping_id": "45",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/tvs-55-to-100-inch.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ba"
+  },
+  "scraping_id": "46",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/samsung.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092bb"
+  },
+  "scraping_id": "47",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/sony.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092bc"
+  },
+  "scraping_id": "48",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/lg.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092bd"
+  },
+  "scraping_id": "49",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/toshiba.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092be"
+  },
+  "scraping_id": "50",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/tcl.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092bf"
+  },
+  "scraping_id": "51",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/dansat.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c0"
+  },
+  "scraping_id": "52",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/atc.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c1"
+  },
+  "scraping_id": "53",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/tv-shop/haier.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c2"
+  },
+  "scraping_id": "54",
+  "scraping_store_address": "https://blackbox.com.sa/en/electronics/tv-audio-accessories.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c3"
+  },
+  "scraping_id": "55",
+  "scraping_store_address": "https://blackbox.com.sa/en/electronics/tv-audio-accessories/tv-stands.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c4"
+  },
+  "scraping_id": "56",
+  "scraping_store_address": "https://blackbox.com.sa/en/electronics.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c5"
+  },
+  "scraping_id": "57",
+  "scraping_store_address": "https://blackbox.com.sa/en/electronics/home-audio-theater.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c6"
+  },
+  "scraping_id": "58",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c7"
+  },
+  "scraping_id": "59",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs/spilit.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c8"
+  },
+  "scraping_id": "60",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs/spilit/normal.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092c9"
+  },
+  "scraping_id": "61",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs/spilit/inverter.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ca"
+  },
+  "scraping_id": "62",
+  "scraping_store_address": "https://blackbox.com.sa/en/acs/freestanding.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092cb"
+  },
+  "scraping_id": "63",
+  "scraping_store_address": "https://blackbox.com.sa/en/acs/freestanding/normal.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092cc"
+  },
+  "scraping_id": "64",
+  "scraping_store_address": "https://blackbox.com.sa/en/acs/freestanding/mosque-design.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092cd"
+  },
+  "scraping_id": "65",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs/window.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ce"
+  },
+  "scraping_id": "66",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs/portable.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092cf"
+  },
+  "scraping_id": "67",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs/freon-portable-air-conditioner.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d0"
+  },
+  "scraping_id": "68",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs/ac-accessories.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d1"
+  },
+  "scraping_id": "69",
+  "scraping_store_address": "https://blackbox.com.sa/en/small-appliances.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d2"
+  },
+  "scraping_id": "70",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/mixers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d3"
+  },
+  "scraping_id": "71",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/blenders.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d4"
+  },
+  "scraping_id": "72",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/meat-mincer.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d5"
+  },
+  "scraping_id": "73",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/water-dispenser.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d6"
+  },
+  "scraping_id": "74",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/kettles.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d7"
+  },
+  "scraping_id": "75",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/coffee-machine.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d8"
+  },
+  "scraping_id": "76",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/ovens.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092d9"
+  },
+  "scraping_id": "77",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/deep-fryer.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092da"
+  },
+  "scraping_id": "78",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/iron.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092db"
+  },
+  "scraping_id": "79",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/vacuum.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092dc"
+  },
+  "scraping_id": "80",
+  "scraping_store_address": "https://blackbox.com.sa/en/small-appliances/heaters.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092dd"
+  },
+  "scraping_id": "81",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/invisible.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092de"
+  },
+  "scraping_id": "82",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/household-utensils.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092df"
+  },
+  "scraping_id": "83",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/tables.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e0"
+  },
+  "scraping_id": "84",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/insect-killer.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e1"
+  },
+  "scraping_id": "85",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/desert-cooler.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e2"
+  },
+  "scraping_id": "86",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/freon-portable-air-conditioner.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e3"
+  },
+  "scraping_id": "87",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/small-appliances/stoves.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e4"
+  },
+  "scraping_id": "88",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e5"
+  },
+  "scraping_id": "89",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/refrigerator.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e6"
+  },
+  "scraping_id": "90",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/refrigerator/side-by-side.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e7"
+  },
+  "scraping_id": "91",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/refrigerator/2-doors.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e8"
+  },
+  "scraping_id": "92",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/refrigerator/1-door.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092e9"
+  },
+  "scraping_id": "93",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/deep-freeze.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ea"
+  },
+  "scraping_id": "94",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/deep-freeze/upright.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092eb"
+  },
+  "scraping_id": "95",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/deep-freeze/chest.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ec"
+  },
+  "scraping_id": "96",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/washing-machine.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ed"
+  },
+  "scraping_id": "97",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/washing-machine/top-load.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ee"
+  },
+  "scraping_id": "98",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/washing-machine/front-load.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ef"
+  },
+  "scraping_id": "99",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/washing-machine/front-load/dryer-100.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f0"
+  },
+  "scraping_id": "100",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/washing-machine/front-load/dryer-75.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f1"
+  },
+  "scraping_id": "101",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/washing-machine/twin-wash.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f2"
+  },
+  "scraping_id": "102",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/washing-machine/2-floors.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f3"
+  },
+  "scraping_id": "103",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/dryers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f4"
+  },
+  "scraping_id": "104",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/dishwasher.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f5"
+  },
+  "scraping_id": "105",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f6"
+  },
+  "scraping_id": "106",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/gas-cookers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f7"
+  },
+  "scraping_id": "107",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/electrical-cookers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f8"
+  },
+  "scraping_id": "108",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/electrical-cookers/ceramic.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092f9"
+  },
+  "scraping_id": "109",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/electrical-cookers/stone.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092fa"
+  },
+  "scraping_id": "110",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/electrical-cookers/coil.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092fb"
+  },
+  "scraping_id": "111",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092fc"
+  },
+  "scraping_id": "112",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-stove.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092fd"
+  },
+  "scraping_id": "113",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-stove/gas.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092fe"
+  },
+  "scraping_id": "114",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-stove/stone.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d092ff"
+  },
+  "scraping_id": "115",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-stove/ceramic.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09300"
+  },
+  "scraping_id": "116",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-ovens.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09301"
+  },
+  "scraping_id": "117",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-ovens/gas.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09302"
+  },
+  "scraping_id": "118",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-ovens/electrical.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09303"
+  },
+  "scraping_id": "119",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-grill.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09304"
+  },
+  "scraping_id": "120",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-fryers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09305"
+  },
+  "scraping_id": "121",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/belt-in/built-in-hood-fan.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09306"
+  },
+  "scraping_id": "122",
+  "scraping_store_address": "https://blackbox.com.sa/en/kitchen-appliances/large-appliances/cookers/cookers-accessories.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09307"
+  },
+  "scraping_id": "123",
+  "scraping_store_address": "https://blackbox.com.sa/en/personal-care.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09308"
+  },
+  "scraping_id": "124",
+  "scraping_store_address": "https://blackbox.com.sa/en/personal-care/hair-removal.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09309"
+  },
+  "scraping_id": "125",
+  "scraping_store_address": "https://blackbox.com.sa/en/personal-care/trimmers-shavers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0930a"
+  },
+  "scraping_id": "126",
+  "scraping_store_address": "https://blackbox.com.sa/en/personal-care/hair-styling-electronics.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0930b"
+  },
+  "scraping_id": "127",
+  "scraping_store_address": "https://blackbox.com.sa/en/personal-care/body-massagers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0930c"
+  },
+  "scraping_id": "128",
+  "scraping_store_address": "https://blackbox.com.sa/en/personal-care/face-mask.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0930d"
+  },
+  "scraping_id": "129",
+  "scraping_store_address": "https://blackbox.com.sa/en/gaming.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0930e"
+  },
+  "scraping_id": "130",
+  "scraping_store_address": "https://blackbox.com.sa/en/gaming/accessories.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0930f"
+  },
+  "scraping_id": "131",
+  "scraping_store_address": "https://blackbox.com.sa/en/gaming/accessories/play-station-accessories.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09310"
+  },
+  "scraping_id": "132",
+  "scraping_store_address": "https://blackbox.com.sa/en/gaming/game-consoles.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09311"
+  },
+  "scraping_id": "133",
+  "scraping_store_address": "https://blackbox.com.sa/en/gaming/game-consoles/play-station-4.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09312"
+  },
+  "scraping_id": "134",
+  "scraping_store_address": "https://blackbox.com.sa/en/gaming/x-box.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09313"
+  },
+  "scraping_id": "135",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers/mobiles-offers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09314"
+  },
+  "scraping_id": "136",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers/home-theater-and-speakers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09315"
+  },
+  "scraping_id": "137",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers/air-conditioner.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09316"
+  },
+  "scraping_id": "138",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers/large-home-appliances.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09317"
+  },
+  "scraping_id": "139",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers/small-home-appliances.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09318"
+  },
+  "scraping_id": "140",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers/laptops-computers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09319"
+  },
+  "scraping_id": "141",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-box-mega-offers/personal-care.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0931a"
+  },
+  "scraping_id": "142",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-ac-offers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0931b"
+  },
+  "scraping_id": "143",
+  "scraping_store_address": "https://blackbox.com.sa/en/customer/account/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0931c"
+  },
+  "scraping_id": "144",
+  "scraping_store_address": "https://blackbox.com.sa/en/checkout/cart/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0931d"
+  },
+  "scraping_id": "145",
+  "scraping_store_address": "https://blackbox.com.sa/en/customer/account/login/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0931e"
+  },
+  "scraping_id": "146",
+  "scraping_store_address": "https://blackbox.com.sa/en/customer/account/create/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0931f"
+  },
+  "scraping_id": "147",
+  "scraping_store_address": "https://blackbox.com.sa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09320"
+  },
+  "scraping_id": "148",
+  "scraping_store_address": "javascript:void(0)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09321"
+  },
+  "scraping_id": "149",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles/nokia.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09322"
+  },
+  "scraping_id": "150",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/tablets/apple.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09323"
+  },
+  "scraping_id": "151",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/tablets/lenovo.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09324"
+  },
+  "scraping_id": "152",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/tablets/huawei.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09325"
+  },
+  "scraping_id": "153",
+  "scraping_store_address": "https://blackbox.com.sa/en/catalog/category/view/s/apple-accessories/id/312/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09326"
+  },
+  "scraping_id": "154",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops/asus.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09327"
+  },
+  "scraping_id": "155",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/desktop-computer.html/?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09328"
+  },
+  "scraping_id": "156",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/tablet.html/?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09329"
+  },
+  "scraping_id": "157",
+  "scraping_store_address": "https://blackbox.com.sa/en/printers.html/?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0932a"
+  },
+  "scraping_id": "158",
+  "scraping_store_address": "https://blackbox.com.sa/en/electronics/satellite-receivers.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0932b"
+  },
+  "scraping_id": "159",
+  "scraping_store_address": "https://blackbox.com.sa/en/haier-refrigerator-dolaby-4-doors-17-8-ft-inverter-led-lighting-white-hrf-550wg.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0932c"
+  },
+  "scraping_id": "160",
+  "scraping_store_address": "https://blackbox.com.sa/en/hoover-carpet-washer-power-scrub-elite-1200w-cwgdh012.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0932d"
+  },
+  "scraping_id": "161",
+  "scraping_store_address": "https://blackbox.com.sa/en/home-queen-split-ac-18000-btu-cold-only-hqhs180c.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0932e"
+  },
+  "scraping_id": "162",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/lg.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d0932f"
+  },
+  "scraping_id": "163",
+  "scraping_store_address": "https://blackbox.com.sa/en/braun-multiquick-food-processor-power-plus-700w-600ml-jug-vegetable-chopper-350ml-made-in-poland-mq3025.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09330"
+  },
+  "scraping_id": "164",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09331"
+  },
+  "scraping_id": "165",
+  "scraping_store_address": "https://blackbox.com.sa/en/york-split-air-conditioner-18000-btu-cold-only-yjfe18xh3cha-r4-yjfe18yh3chao-4-white-installation-service-available-below-only-available-in-riyadh.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09332"
+  },
+  "scraping_id": "166",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/washing-machine/lg.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09333"
+  },
+  "scraping_id": "167",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-tv-70-inch-led-4k-active-hdr-smart-uhd-70un7380pvc.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09334"
+  },
+  "scraping_id": "168",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv-table-for-tv-43inch-cr-43-130h-16.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09335"
+  },
+  "scraping_id": "169",
+  "scraping_store_address": "https://blackbox.com.sa/en/anker-powercore-external-battery-20100mah-black-a1271h12.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd5e2056f0fb5d09336"
+  },
+  "scraping_id": "170",
+  "scraping_store_address": "https://blackbox.com.sa/en/sony-sound-bar-2ch-single-soundbar-with-bluetoothr-technology-ht-s100f.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09337"
+  },
+  "scraping_id": "171",
+  "scraping_store_address": "https://blackbox.com.sa/en/clikon-washing-machine-dryer-2-kg-top-load-360w-multi-color-ck620.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09338"
+  },
+  "scraping_id": "172",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-5-1-channel-home-theater-system-lhd657.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09339"
+  },
+  "scraping_id": "173",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-sound-bar-2-ch-40-w-bluetooth-black-sk1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0933a"
+  },
+  "scraping_id": "174",
+  "scraping_store_address": "https://blackbox.com.sa/en/catalog/product/view/id/4846/s/sony-tv-43-inch-4k-hdr-led-android-smart-black-kd-43x7500h-2/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0933b"
+  },
+  "scraping_id": "175",
+  "scraping_store_address": "https://blackbox.com.sa/en/catalog/product/view/_ignore_category/1/id/4846/s/sony-tv-43-inch-4k-hdr-led-android-smart-black-kd-43x7500h-2/#review-form",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0933c"
+  },
+  "scraping_id": "176",
+  "scraping_store_address": "https://blackbox.com.sa/en/aukey-mfi-lightning-sync-charge-pvc-cable-1-2-m-car-charger-4-ports-55-w-qc-3-0-mico-usb-1-m-magnetic-air-vent-car-mount-holder-single-black-cbbal1-bk-cct9-bk-hdc5-bk.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0933d"
+  },
+  "scraping_id": "177",
+  "scraping_store_address": "https://blackbox.com.sa/en/receive-the-channels-almajd-9-with-subscription-for-12-month-majd-09.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0933e"
+  },
+  "scraping_id": "178",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv-table-without-stand-42-55-inches-walnut-cr45-130hc-installation-is-available-for-free-inside-read-only-1419200010000096.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0933f"
+  },
+  "scraping_id": "179",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv-table-without-stand-55-60-inches-black-cr43-140hc-installation-is-available-for-free-inside-read-only-1419200010000077.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09340"
+  },
+  "scraping_id": "180",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv-table-without-stand-black-cr43-160hc.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09341"
+  },
+  "scraping_id": "181",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv-table-for-tv-43inch-cr-43-130h-13.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09342"
+  },
+  "scraping_id": "182",
+  "scraping_store_address": "https://blackbox.com.sa/en/asus-lap-top-pro-intelr-coretmi5-8265u-1-6ghz-up-to-3-9-ghz-6mb-cache-8gb-ram-256gb-pcier-gen3-x2-ssd-tpm-intel-uhd-graphics-620-win-10-pro-14-0-led-backlit-fhd-grey-p5440fa-bm0339r.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09343"
+  },
+  "scraping_id": "183",
+  "scraping_store_address": "https://blackbox.com.sa/en/pre-order-apple-iphone-11-128-gb-white-4g-lte.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09344"
+  },
+  "scraping_id": "184",
+  "scraping_store_address": "https://blackbox.com.sa/en/pre-order-apple-iphone-11-128-gb-green-4g-lte.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09345"
+  },
+  "scraping_id": "185",
+  "scraping_store_address": "https://blackbox.com.sa/en/apple-airpods-2-with-wireless-charging-case.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09346"
+  },
+  "scraping_id": "186",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/mobiles.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09347"
+  },
+  "scraping_id": "187",
+  "scraping_store_address": "https://blackbox.com.sa/en/tv/tv-shop.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09348"
+  },
+  "scraping_id": "188",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances/large-appliances/acs.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09349"
+  },
+  "scraping_id": "189",
+  "scraping_store_address": "https://blackbox.com.sa/en/large-appliances.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0934a"
+  },
+  "scraping_id": "190",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-note20-ultra-6-9-256gb-8gb-ram-5g-triple-back-camera-mystic-black-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0934b"
+  },
+  "scraping_id": "191",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-note20-ultra-6-9-256gb-8gb-ram-5g-triple-back-camera-mystic-black.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0934c"
+  },
+  "scraping_id": "192",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-note10-6-8-inch-256-gb-12-gb-ram-5g-white.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0934d"
+  },
+  "scraping_id": "193",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-note10-lite-2020-6-7-inch-128-gb-8-gb-ram-aura-glow.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0934e"
+  },
+  "scraping_id": "194",
+  "scraping_store_address": "https://blackbox.com.sa/en/pre-order-apple-iphone-11-pro-64-gb-midnight-green-4g-lte.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0934f"
+  },
+  "scraping_id": "195",
+  "scraping_store_address": "https://blackbox.com.sa/en/pre-order-apple-iphone-11-pro-max-256gb-midnight-green-4g-lte.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09350"
+  },
+  "scraping_id": "196",
+  "scraping_store_address": "https://blackbox.com.sa/en/apple-iphone-11-64-gb-purple-lte.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09351"
+  },
+  "scraping_id": "197",
+  "scraping_store_address": "https://blackbox.com.sa/en/apple-iphone-11-64-gb-green-lte.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09352"
+  },
+  "scraping_id": "198",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-note10-6-8-inch-256-gb-12-gb-ram-5g-aura-blue-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09353"
+  },
+  "scraping_id": "199",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-a31-sm-a315-6-4-memory-128-gb-4-gb-ram-black.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09354"
+  },
+  "scraping_id": "200",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-a31-sm-a315-6-4-memory-128-gb-4-gb-ram-black-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09355"
+  },
+  "scraping_id": "201",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-galaxy-a31-sm-a315-6-4-memory-128-gb-4-gb-ram-black-2.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09356"
+  },
+  "scraping_id": "202",
+  "scraping_store_address": "https://blackbox.com.sa/en/huawei-y5-lite-ds-16-gb-1-gb-ram-4g-f-cam-5-mp-b-cam-8-mp-black-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09357"
+  },
+  "scraping_id": "203",
+  "scraping_store_address": "https://blackbox.com.sa/en/huawei-y5-lite-ds-16-gb-1-gb-ram-4g-f-cam-5-mp-b-cam-8-mp-black.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09358"
+  },
+  "scraping_id": "204",
+  "scraping_store_address": "https://blackbox.com.sa/en/dansat-tv-hd-led-43-inch-black-dte4320bf-2.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09359"
+  },
+  "scraping_id": "205",
+  "scraping_store_address": "https://blackbox.com.sa/en/dansat-tv-hd-led-43-inch-black-dte4320bf-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0935a"
+  },
+  "scraping_id": "206",
+  "scraping_store_address": "https://blackbox.com.sa/en/dansat-tv-hd-led-43-inch-black-dte4320bf.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0935b"
+  },
+  "scraping_id": "207",
+  "scraping_store_address": "https://blackbox.com.sa/en/tcl-tv-50-inch-4k-hdr-10-smart-uhd-android-50p715-3.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0935c"
+  },
+  "scraping_id": "208",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-flat-qled-tv-55-4k-smart-hdr-silver-qa55q7famrxum.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0935d"
+  },
+  "scraping_id": "209",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-led-65sm9000pva-55-smart-suhd-hdr-6.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0935e"
+  },
+  "scraping_id": "210",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-65-inch-oled-4k-smart-tv-black-65gxpva.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0935f"
+  },
+  "scraping_id": "211",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-flat-tv-32-ua32n5000-fhd-black.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09360"
+  },
+  "scraping_id": "212",
+  "scraping_store_address": "https://blackbox.com.sa/en/atc-50-inch-4k-uhd-android-smart-led-tv-black-e-ld-50uhd.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09361"
+  },
+  "scraping_id": "213",
+  "scraping_store_address": "https://blackbox.com.sa/en/atc-tv-58-inch-uhd-4k-smart-hdr-led-e-ld-58uhd.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09362"
+  },
+  "scraping_id": "214",
+  "scraping_store_address": "https://blackbox.com.sa/en/atc-55-inch-4k-uhd-android-smart-led-tv-black-e-ld-55uhd.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09363"
+  },
+  "scraping_id": "215",
+  "scraping_store_address": "https://blackbox.com.sa/en/atc-65-inch-4k-uhd-android-smart-led-tv-black-e-ld-65uhd.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09364"
+  },
+  "scraping_id": "216",
+  "scraping_store_address": "https://blackbox.com.sa/en/dansat-55-inch-smart-led-tv-dte55bf.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09365"
+  },
+  "scraping_id": "217",
+  "scraping_store_address": "https://blackbox.com.sa/en/arab-dalla-arabic-coffee-maker-jls-170e-stainless-steel.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09366"
+  },
+  "scraping_id": "218",
+  "scraping_store_address": "https://blackbox.com.sa/en/panasonic-3500w-meat-mincer-japan-mk-zj3500ktz.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09367"
+  },
+  "scraping_id": "219",
+  "scraping_store_address": "https://blackbox.com.sa/en/emjoi-power-stand-mixer-with-meat-grinder-steel-uesm-120mg.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09368"
+  },
+  "scraping_id": "220",
+  "scraping_store_address": "https://blackbox.com.sa/en/beko-coffee-maker-single-white-bkk2300w-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09369"
+  },
+  "scraping_id": "221",
+  "scraping_store_address": "https://blackbox.com.sa/en/home-queen-humidifier-with-touchable-control-and-timer-3-steam-level-tank-5-5-l-hqsh806.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0936a"
+  },
+  "scraping_id": "222",
+  "scraping_store_address": "https://blackbox.com.sa/en/panasonic-water-dispenser-stand-hot-cold-3-faucet-sdm-wd3438bg-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0936b"
+  },
+  "scraping_id": "223",
+  "scraping_store_address": "https://blackbox.com.sa/en/platinum-steam-press-iron-40-inch-2200-w-digital-ceramic-surface-white-sp-7700-w-stand-gift.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0936c"
+  },
+  "scraping_id": "224",
+  "scraping_store_address": "https://blackbox.com.sa/en/bosch-built-in-microwave-oven-stainless-steel-grill-900-w-21-l-black-bel634gs1m.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0936d"
+  },
+  "scraping_id": "225",
+  "scraping_store_address": "https://blackbox.com.sa/en/hitachi-drum-vaccum-cleaner-7-5-l-t-1300-w-gray-cv-100g-ss220-pg.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0936e"
+  },
+  "scraping_id": "226",
+  "scraping_store_address": "https://blackbox.com.sa/en/black-decker-hand-vacuum-12-v-tank-610-ml-with-cyclonic-action-dv1210n-b5.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0936f"
+  },
+  "scraping_id": "227",
+  "scraping_store_address": "https://blackbox.com.sa/en/tcl-portable-air-conditioner-14000-tac-14cpa-d.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09370"
+  },
+  "scraping_id": "228",
+  "scraping_store_address": "https://blackbox.com.sa/en/tcl-portable-air-conditioner-19000-btu-tac-19cpa-d.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09371"
+  },
+  "scraping_id": "229",
+  "scraping_store_address": "https://blackbox.com.sa/en/panasonic-meat-grinder-2700w-made-in-japan-mk-zj2700ktz.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09372"
+  },
+  "scraping_id": "230",
+  "scraping_store_address": "https://blackbox.com.sa/en/emjoi-floor-standing-water-dispenser-uewd-261-white.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09373"
+  },
+  "scraping_id": "231",
+  "scraping_store_address": "https://blackbox.com.sa/en/hitachi-twin-tub-washing-machine-7-kg-white-ps-997bj.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09374"
+  },
+  "scraping_id": "232",
+  "scraping_store_address": "https://blackbox.com.sa/en/hitachi-twin-tub-washing-machine-10-5-kg-white-ps1055k-wh.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09375"
+  },
+  "scraping_id": "233",
+  "scraping_store_address": "https://blackbox.com.sa/en/toshiba-vh-h75wbb-6-5.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09376"
+  },
+  "scraping_id": "234",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-dishwasher-14-place-setting-inverter-direct-drive-motor-silver-dfb415fp-2.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09377"
+  },
+  "scraping_id": "235",
+  "scraping_store_address": "https://blackbox.com.sa/en/gibson-elecric-ceramic-oven-60-x-90-cm-5-burner-steel-gcb296ctled.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09378"
+  },
+  "scraping_id": "236",
+  "scraping_store_address": "https://blackbox.com.sa/en/white-westinghouse-chest-freezer-4-9-cu-ft-139-l-white-wwcf9k150.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09379"
+  },
+  "scraping_id": "237",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-dishwasher-14-place-setting-inverter-direct-drive-motor-silver-dfb415fp-3.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0937a"
+  },
+  "scraping_id": "238",
+  "scraping_store_address": "https://blackbox.com.sa/en/white-westinghouse-washing-machine-front-load-12-kg-drying-8-kg-100-silver-wwflc9vw1208.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0937b"
+  },
+  "scraping_id": "239",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-washing-machine-front-load-12kg-drying-8-kg-100-16-program-steel-mfk1280wds-2.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0937c"
+  },
+  "scraping_id": "240",
+  "scraping_store_address": "https://blackbox.com.sa/en/17-9-s-cu-ft-top-freezer-refrigerator-white-smart-thinq-wifi-multi-air-flow-energy-saving-inverter-linear-compressor-lt19hbhwln.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0937d"
+  },
+  "scraping_id": "241",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-14kg-washer-top-load-washing-machine-silver-color-smart-motion-wtsv14bsln.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0937e"
+  },
+  "scraping_id": "242",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-7kg-condensing-type-dryer-sensor-dry-stone-silver-color-smart-diagnosis-rc7066g2f.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0937f"
+  },
+  "scraping_id": "243",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-dishwasher-14-place-setting-inverter-direct-drive-motor-silver-dfb415fp.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09380"
+  },
+  "scraping_id": "244",
+  "scraping_store_address": "https://blackbox.com.sa/en/lg-refrigerator-side-by-side-2-doors-26-7-feet-755-l-hygiene-fresh-inverter-compressor-korea-black-stainless-lm334bbsln.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09381"
+  },
+  "scraping_id": "245",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-split-air-conditioner-31400-btu-cold-only-elite-energy-saver-freon-410-mste36crn3mb.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09382"
+  },
+  "scraping_id": "246",
+  "scraping_store_address": "https://blackbox.com.sa/en/air-conditioner-accessories-thai-mezzo-air-conditioning-cleaning-foam.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09383"
+  },
+  "scraping_id": "247",
+  "scraping_store_address": "https://blackbox.com.sa/en/air-conditioner-accessories-china-split-air-conditioner-distributor.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09384"
+  },
+  "scraping_id": "248",
+  "scraping_store_address": "https://blackbox.com.sa/en/air-conditioner-accessories-split-air-conditioner-distributor-turkey.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09385"
+  },
+  "scraping_id": "249",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-split-air-conditioner-31400-btu-cold-only-elite-energy-saver-freon-410-mste36crn3mb-1.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09386"
+  },
+  "scraping_id": "250",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-split-air-conditioner-31400-btu-cold-only-elite-energy-saver-freon-410-mste36crn3mb-2.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09387"
+  },
+  "scraping_id": "251",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-split-air-conditioner-31400-btu-cold-only-elite-energy-saver-freon-410-mste36crn3mb-3.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09388"
+  },
+  "scraping_id": "252",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-split-air-conditioner-31400-btu-cold-only-elite-energy-saver-freon-410-mste36crn3mb-4.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09389"
+  },
+  "scraping_id": "253",
+  "scraping_store_address": "https://blackbox.com.sa/en/york-freestanding-air-conditioner-51000-btu-cold-only-ye8ft55sc7ac41-ye8sd55sscac41-ft-price-has-not-including-installation-fees-installation-service-available-below-riyadh-only.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0938a"
+  },
+  "scraping_id": "254",
+  "scraping_store_address": "https://blackbox.com.sa/en/midea-split-air-conditioner-18000-btu-cool-only-elite-mste18crnab4-installation-service-available-below-only-available-for-riyadh.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0938b"
+  },
+  "scraping_id": "255",
+  "scraping_store_address": "https://blackbox.com.sa/en/samsung-split-air-conditioning-18000-btu-cold-only-white-ar18trhqhwkn-x-price-has-not-including-installation-fees-installation-service-available-below-riyadh-only.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0938c"
+  },
+  "scraping_id": "256",
+  "scraping_store_address": "https://blackbox.com.sa/en/mando-split-air-conditioner18000-btu-cool-only-plus-energy-saver-freon410-white-mp-18cd-new-saso.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0938d"
+  },
+  "scraping_id": "257",
+  "scraping_store_address": "https://blackbox.com.sa/en/haier-air-conditioner-split-18000-btu-cold-only-white-hsu-18lna13-r2-t3-installation-service-available-below-only-available-in-riyadh.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0938e"
+  },
+  "scraping_id": "258",
+  "scraping_store_address": "https://blackbox.com.sa/en/ac-speed-kool-17100-btu-cool-rotary-window-air-conditioner-sktw180c.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0938f"
+  },
+  "scraping_id": "259",
+  "scraping_store_address": "https://blackbox.com.sa/en/apple-macbook-air-13-inch-1-1-ghz-dual-core-10th-generation-intel-core-i3-256gb-8gb-ram-space-gray-mwtj2ab-a-3.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09390"
+  },
+  "scraping_id": "260",
+  "scraping_store_address": "https://blackbox.com.sa/en/huawei-matebook-d-15-amd-ryzen-5-3500u-15-6-ips-8-gb-ram-1tb-hdd-256-ssd-radeontm-vega-8-graphics-win-10-home-silver-matebook-d-18.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09391"
+  },
+  "scraping_id": "261",
+  "scraping_store_address": "https://blackbox.com.sa/en/microsoft-lqj-00006-microsoft-surface-pro-6-intel-quad-core-i7-8650u-1-9ghz-16gb-512gb-12-3-2736-x-1824-8mp-5mp-bluetooth-intel-uhd-graphics-620-windows-10-pro-silver.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09392"
+  },
+  "scraping_id": "262",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09393"
+  },
+  "scraping_id": "263",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-2.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09394"
+  },
+  "scraping_id": "264",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-3.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09395"
+  },
+  "scraping_id": "265",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-4.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09396"
+  },
+  "scraping_id": "266",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-5.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09397"
+  },
+  "scraping_id": "267",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-6.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09398"
+  },
+  "scraping_id": "268",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-7.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d09399"
+  },
+  "scraping_id": "269",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-8.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0939a"
+  },
+  "scraping_id": "270",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-9.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0939b"
+  },
+  "scraping_id": "271",
+  "scraping_store_address": "https://blackbox.com.sa/en/promate-wireless-powerbank-10000-mah-with-2-ports-black-aurapack-10-black-10.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0939c"
+  },
+  "scraping_id": "272",
+  "scraping_store_address": "https://blackbox.com.sa/en/pc-computers/laptops.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0939d"
+  },
+  "scraping_id": "273",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/tablets.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0939e"
+  },
+  "scraping_id": "274",
+  "scraping_store_address": "https://blackbox.com.sa/en/small-appliances.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d0939f"
+  },
+  "scraping_id": "275",
+  "scraping_store_address": "https://blackbox.com.sa/en/electronics.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a0"
+  },
+  "scraping_id": "276",
+  "scraping_store_address": "https://blackbox.com.sa/en/smartphones-tablets/accessories.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a1"
+  },
+  "scraping_id": "277",
+  "scraping_store_address": "https://blackbox.com.sa/en/personal-care.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a2"
+  },
+  "scraping_id": "278",
+  "scraping_store_address": "https://blackbox.com.sa/en/electronics/tv-audio-accessories/tv-stands.html?am_on_sale=1?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a3"
+  },
+  "scraping_id": "279",
+  "scraping_store_address": "https://blackbox.com.sa/en/apple-airpods-2nd-gen.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a4"
+  },
+  "scraping_id": "280",
+  "scraping_store_address": "https://blackbox.com.sa/en/split-air-conditioner-installation-service-only-one.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a5"
+  },
+  "scraping_id": "281",
+  "scraping_store_address": "https://blackbox.com.sa/en/pre-order-samsung-galaxy-note10-plus-256gb-aurora-glow-get-gifts-worth-1200-sr-earbuds-screen-care-card.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a6"
+  },
+  "scraping_id": "282",
+  "scraping_store_address": "https://blackbox.com.sa/en/toshiba-55-inch-smart-4k-tv-55u5850ee.html?product_list_mode=list",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a7"
+  },
+  "scraping_id": "283",
+  "scraping_store_address": "/showrooms",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a8"
+  },
+  "scraping_id": "284",
+  "scraping_store_address": "online@blackbox.com.sa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093a9"
+  },
+  "scraping_id": "285",
+  "scraping_store_address": "https://blackbox.com.sa/en/careers",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093aa"
+  },
+  "scraping_id": "286",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"/customer/account/\"",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093ab"
+  },
+  "scraping_id": "287",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"/checkout/cart/\"",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093ac"
+  },
+  "scraping_id": "288",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"/checkout/\"",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093ad"
+  },
+  "scraping_id": "289",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"/wishlist/\"",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093ae"
+  },
+  "scraping_id": "290",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"/sales/order/history/\"",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093af"
+  },
+  "scraping_id": "291",
+  "scraping_store_address": "https://blackbox.com.sa/en/faq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b0"
+  },
+  "scraping_id": "292",
+  "scraping_store_address": "https://blackbox.com.sa/en/referral",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b1"
+  },
+  "scraping_id": "293",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"about-us\"/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b2"
+  },
+  "scraping_id": "294",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"contacts\"/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b3"
+  },
+  "scraping_id": "295",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"payment-methods\"/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b4"
+  },
+  "scraping_id": "296",
+  "scraping_store_address": "https://blackbox.com.sa/en/shipping-returned",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b5"
+  },
+  "scraping_id": "297",
+  "scraping_store_address": "https://blackbox.com.sa/en/privacy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b6"
+  },
+  "scraping_id": "298",
+  "scraping_store_address": "https://blackbox.com.sa/en/\"terms-and-conditions\"/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b7"
+  },
+  "scraping_id": "299",
+  "scraping_store_address": "https://www.facebook.com/blackboxsa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b8"
+  },
+  "scraping_id": "300",
+  "scraping_store_address": "https://twitter.com/blackboxksa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093b9"
+  },
+  "scraping_id": "301",
+  "scraping_store_address": "https://www.snapchat.com/add/blackboxsa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093ba"
+  },
+  "scraping_id": "302",
+  "scraping_store_address": "https://www.instagram.com/Blackboxsa/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093bb"
+  },
+  "scraping_id": "303",
+  "scraping_store_address": "https://www.youtube.com/user/blackboxksa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093bc"
+  },
+  "scraping_id": "304",
+  "scraping_store_address": "https://www.pinterest.com/blackboxksa/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093bd"
+  },
+  "scraping_id": "305",
+  "scraping_store_address": "https://maroof.sa/87872",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093be"
+  },
+  "scraping_id": "306",
+  "scraping_store_address": "https://blackbox.com.sa/en/catalog/product_compare/index/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fdfd6e2056f0fb5d093bf"
+  },
+  "scraping_id": "307",
+  "scraping_store_address": "https://blackbox.com.sa/en/wishlist/",
+  "__v": 0
+}]

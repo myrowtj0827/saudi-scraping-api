@@ -1,0 +1,1065 @@
+[{
+  "_id": {
+    "$oid": "5f5265bf9eac0d8e00bbee1b"
+  },
+  "scraping_id": "1",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee1c"
+  },
+  "scraping_id": "2",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee1d"
+  },
+  "scraping_id": "3",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/head-phones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee1e"
+  },
+  "scraping_id": "4",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/earphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee1f"
+  },
+  "scraping_id": "5",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/headsets.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee20"
+  },
+  "scraping_id": "6",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/wireless-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee21"
+  },
+  "scraping_id": "7",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/dj-headhpones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee22"
+  },
+  "scraping_id": "8",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/tv-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee23"
+  },
+  "scraping_id": "9",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/noise-cancelling-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee24"
+  },
+  "scraping_id": "10",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/audiophile-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee25"
+  },
+  "scraping_id": "11",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/gaming-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee26"
+  },
+  "scraping_id": "12",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/studio-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee27"
+  },
+  "scraping_id": "13",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/vr-headsets.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee28"
+  },
+  "scraping_id": "14",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/headphone-cables.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee29"
+  },
+  "scraping_id": "15",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/headphones-accessoires.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee2a"
+  },
+  "scraping_id": "16",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/ciem.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee2b"
+  },
+  "scraping_id": "17",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/kids-headphone.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee2c"
+  },
+  "scraping_id": "18",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee2d"
+  },
+  "scraping_id": "19",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/portable.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee2e"
+  },
+  "scraping_id": "20",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/desktop.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee2f"
+  },
+  "scraping_id": "21",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/bluetooth-speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee30"
+  },
+  "scraping_id": "22",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/outdoor-speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee31"
+  },
+  "scraping_id": "23",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/home-theater.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee32"
+  },
+  "scraping_id": "24",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/subwoofers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee33"
+  },
+  "scraping_id": "25",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/active-speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee34"
+  },
+  "scraping_id": "26",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/studio-monitors.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee35"
+  },
+  "scraping_id": "27",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/ceiling-speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee36"
+  },
+  "scraping_id": "28",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/speaker-cables.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee37"
+  },
+  "scraping_id": "29",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/floor-stand-speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee38"
+  },
+  "scraping_id": "30",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/book-shelf-speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee39"
+  },
+  "scraping_id": "31",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/soundbar.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee3a"
+  },
+  "scraping_id": "32",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/pa-speakers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee3b"
+  },
+  "scraping_id": "33",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/speaker-accessories.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee3c"
+  },
+  "scraping_id": "34",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/turn-tables.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee3d"
+  },
+  "scraping_id": "35",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/turntables.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee3e"
+  },
+  "scraping_id": "36",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/cartridges.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee3f"
+  },
+  "scraping_id": "37",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/turn-table-accessories.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee40"
+  },
+  "scraping_id": "38",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/dacs-amps.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee41"
+  },
+  "scraping_id": "39",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/digital-audio-players.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee42"
+  },
+  "scraping_id": "40",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/bluray-players-bdp.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee43"
+  },
+  "scraping_id": "41",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/media-streamers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee44"
+  },
+  "scraping_id": "42",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/cd-players.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee45"
+  },
+  "scraping_id": "43",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/dacs.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee46"
+  },
+  "scraping_id": "44",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/headphones-amplifiers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee47"
+  },
+  "scraping_id": "45",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/hifi-amplifiers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee48"
+  },
+  "scraping_id": "46",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/av-recivers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee49"
+  },
+  "scraping_id": "47",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/phono-pre-amp.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee4a"
+  },
+  "scraping_id": "48",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/media-player-accessories.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee4b"
+  },
+  "scraping_id": "49",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/personal-microphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee4c"
+  },
+  "scraping_id": "50",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/usb.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee4d"
+  },
+  "scraping_id": "51",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/podcast.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee4e"
+  },
+  "scraping_id": "52",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/mobile.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee4f"
+  },
+  "scraping_id": "53",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/wearables.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee50"
+  },
+  "scraping_id": "54",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/smartwatches.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee51"
+  },
+  "scraping_id": "55",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/fitness-trackers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee52"
+  },
+  "scraping_id": "56",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/gaming.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee53"
+  },
+  "scraping_id": "57",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/gaming-controller.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee54"
+  },
+  "scraping_id": "58",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/mouses.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee55"
+  },
+  "scraping_id": "59",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/gaming-keyboards.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee56"
+  },
+  "scraping_id": "60",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/video-games.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee57"
+  },
+  "scraping_id": "61",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/life-style.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee58"
+  },
+  "scraping_id": "62",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/photography-and-video.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee59"
+  },
+  "scraping_id": "63",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/photography-accessories.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee5a"
+  },
+  "scraping_id": "64",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/pro-microphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee5b"
+  },
+  "scraping_id": "65",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/xlr.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee5c"
+  },
+  "scraping_id": "66",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/pro-podcast.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee5d"
+  },
+  "scraping_id": "67",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/music-recording.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee5e"
+  },
+  "scraping_id": "68",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/dj-equipment.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee5f"
+  },
+  "scraping_id": "69",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/pro-mixers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee60"
+  },
+  "scraping_id": "70",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/keyborads.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee61"
+  },
+  "scraping_id": "71",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/monitors.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee62"
+  },
+  "scraping_id": "72",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/dj-controllers.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee63"
+  },
+  "scraping_id": "73",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/music-production.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee64"
+  },
+  "scraping_id": "74",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/audio-interface.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee65"
+  },
+  "scraping_id": "75",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/music-production-accessories.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee66"
+  },
+  "scraping_id": "76",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/mixing-console.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c59eac0d8e00bbee67"
+  },
+  "scraping_id": "77",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/midi-keyboards.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee68"
+  },
+  "scraping_id": "78",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/music-production-software.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee69"
+  },
+  "scraping_id": "79",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/smart-home.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee6a"
+  },
+  "scraping_id": "80",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/smart-lighting.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee6b"
+  },
+  "scraping_id": "81",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/home-cameras.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee6c"
+  },
+  "scraping_id": "82",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/alarma-and-sensors.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee6d"
+  },
+  "scraping_id": "83",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/brands.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee6e"
+  },
+  "scraping_id": "84",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sony-wh1000xm3-wireless-noise-canceling-over-ear-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee6f"
+  },
+  "scraping_id": "85",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/dj-quipments.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee70"
+  },
+  "scraping_id": "86",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/native-instrument.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee71"
+  },
+  "scraping_id": "87",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/mobile-tablets-and-accessories.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee72"
+  },
+  "scraping_id": "88",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/brands/grado.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee73"
+  },
+  "scraping_id": "89",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/moshi.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee74"
+  },
+  "scraping_id": "90",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/ifi-audio.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee75"
+  },
+  "scraping_id": "91",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/audioquest.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee76"
+  },
+  "scraping_id": "92",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/primacoustic.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee77"
+  },
+  "scraping_id": "93",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/shanling.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee78"
+  },
+  "scraping_id": "94",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/apple.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee79"
+  },
+  "scraping_id": "95",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/audiolab.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee7a"
+  },
+  "scraping_id": "96",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/chord.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee7b"
+  },
+  "scraping_id": "97",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/duky-pc-gaming.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee7c"
+  },
+  "scraping_id": "98",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/pryma.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee7d"
+  },
+  "scraping_id": "99",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/crosley.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee7e"
+  },
+  "scraping_id": "100",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/saregama-carvaan.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee7f"
+  },
+  "scraping_id": "101",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/universal-audio.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee80"
+  },
+  "scraping_id": "102",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/kenu.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee81"
+  },
+  "scraping_id": "103",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/happy-plugs.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee82"
+  },
+  "scraping_id": "104",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/musical-fidelity.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee83"
+  },
+  "scraping_id": "105",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/brydge.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee84"
+  },
+  "scraping_id": "106",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/ferrari.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee85"
+  },
+  "scraping_id": "107",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sony-wh1000xm3-wireless-noise-canceling-over-ear-headphones.html#reviews",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee86"
+  },
+  "scraping_id": "108",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/pioneer-dj-wego-4-dj-software-controller-black.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee87"
+  },
+  "scraping_id": "109",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/apple-airpods-pro-noise-cancelling-headhpones-with-case-mate-creaturepods-chuck-the-cool-guy-green.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee88"
+  },
+  "scraping_id": "110",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/galaxy-watch-active-2-44mm-stainless-steel-black.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee89"
+  },
+  "scraping_id": "111",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/shure-se215m-se-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee8a"
+  },
+  "scraping_id": "112",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/hifiman-ananda-bt-bluetooth-headphone.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee8b"
+  },
+  "scraping_id": "113",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/ifi-audio-xdsd-dac-headphones-amp.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee8c"
+  },
+  "scraping_id": "114",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/ifi-audio-xdsd-dac-headphones-amp.html#reviews",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee8d"
+  },
+  "scraping_id": "115",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/apple-airpods-pro-noise-cancelling-headhpones-with-case-mate-kodak-case.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee8e"
+  },
+  "scraping_id": "116",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-momentum-true-wireless-earphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee8f"
+  },
+  "scraping_id": "117",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-momentum-true-wireless-earphones.html#reviews",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee90"
+  },
+  "scraping_id": "118",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/powerbeats-pro-totally-wireless-earphones-ivory.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee91"
+  },
+  "scraping_id": "119",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/powerbeats-pro-totally-wireless-earphones-ivory.html#reviews",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee92"
+  },
+  "scraping_id": "120",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-hsp4-headworn-microphone-beige.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee93"
+  },
+  "scraping_id": "121",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/neumann-tlm-67-microphone-pearl-gray.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee94"
+  },
+  "scraping_id": "122",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-hsp4-headworn-microphone-black.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee95"
+  },
+  "scraping_id": "123",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/neumann-tlm-193-microphone-black.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee96"
+  },
+  "scraping_id": "124",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-hsp2-head-worn-microphone-beige.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee97"
+  },
+  "scraping_id": "125",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-hsp2-head-worn-microphone-black.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee98"
+  },
+  "scraping_id": "126",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/iottie-easy-one-touch-5-universal-air-vent-mount-premium-ac-vent-phone-holder.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee99"
+  },
+  "scraping_id": "127",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-speechline-sl-headmic-1-headworn-microphone-silver.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee9a"
+  },
+  "scraping_id": "128",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-speechline-sl-headmic-1-headworn-microphone-beige.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee9b"
+  },
+  "scraping_id": "129",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sennheiser-speechline-sl-headmic-1-headworn-microphone-black.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee9c"
+  },
+  "scraping_id": "130",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/astro-a50-wireless-gaming-headphones-xbox.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee9d"
+  },
+  "scraping_id": "131",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/dreamwave-audio-survivor-30w-outdoor-bluetooth-speaker-w-car-jump-starter-and-led-flashlight.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee9e"
+  },
+  "scraping_id": "132",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/64-audio-u18t-18-drivers-flagship-in-ear-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbee9f"
+  },
+  "scraping_id": "133",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/emotiva-audio-a-300-basx-stereo-power-amplifier.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea0"
+  },
+  "scraping_id": "134",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/logitech-bluetooth-craft-keyboard.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea1"
+  },
+  "scraping_id": "135",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/galaxy-watch-active-2-44mm-stainless-steel-silver.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea2"
+  },
+  "scraping_id": "136",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/apple-airpods-2.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea3"
+  },
+  "scraping_id": "137",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/audioengine-hd3-powered-speakers-walnut.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea4"
+  },
+  "scraping_id": "138",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/ruark-audio-mr1-mk2-bluetooth-speaker-system-grey.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea5"
+  },
+  "scraping_id": "139",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/sony-wh-1000xm4-wireless-noise-canceling-headphones-black.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea6"
+  },
+  "scraping_id": "140",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/steelseries-arctis-5-7-1-surround-sound-rgb-illuminated-gaming-headset-white.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea7"
+  },
+  "scraping_id": "141",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/samsung-galaxy-watch-active-pink.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea8"
+  },
+  "scraping_id": "142",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/audio-technica-ath-m50xbt-wireless-headphones.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeea9"
+  },
+  "scraping_id": "143",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/jerry-harvey-audio-lola-by-adam-rhodes-custom-ears.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeeaa"
+  },
+  "scraping_id": "144",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/shanling-m0-tiny-portable-music-player.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeeab"
+  },
+  "scraping_id": "145",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/hercules-dj-control-glow.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeeac"
+  },
+  "scraping_id": "146",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/blue-microphones-yeti-microphone-whiteout.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265c69eac0d8e00bbeead"
+  },
+  "scraping_id": "147",
+  "scraping_store_address": "https://www.samma3a.com/saudi-en/reloop-mixon-4-4-channel-dj-controller.html",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265e89eac0d8e00bbeeae"
+  },
+  "scraping_id": "148",
+  "scraping_store_address": "http://www.samma3a.com/en/wireless-headphones.html?fit=213",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265e89eac0d8e00bbeeaf"
+  },
+  "scraping_id": "149",
+  "scraping_store_address": "http://www.samma3a.com/en/wireless-headphones.html?fit=214",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265e89eac0d8e00bbeeb0"
+  },
+  "scraping_id": "150",
+  "scraping_store_address": "http://www.samma3a.com/en/wireless-headphones.html?fit=215",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265e89eac0d8e00bbeeb1"
+  },
+  "scraping_id": "151",
+  "scraping_store_address": "http://www.samma3a.com/en/wireless-headphones.html?fit=217",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5265e89eac0d8e00bbeeb2"
+  },
+  "scraping_id": "152",
+  "scraping_store_address": "http://www.samma3a.com/en/wireless-headphones.html?fit=218",
+  "__v": 0
+}]
