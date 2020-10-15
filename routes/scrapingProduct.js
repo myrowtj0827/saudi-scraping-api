@@ -44,15 +44,15 @@ let nCount_First = 1, nCount_Products;
  * 2nd Site info
  */
 let arrayUrl = [
-                    "https://www.noon.com/saudi-en/",
-                    "https://swsg.co/en/",
-                    "https://redsea.com/en/",
-                    "https://www.extra.com/en-sa/",
-                    "https://blackbox.com.sa/en/",
-                    "https://www.virginmegastore.sa/en/",
-                    "https://www.samma3a.com/saudi-en/",
-                    "https://www.jarir.com/sa-en/",
-                ];
+    "https://www.noon.com/saudi-en/",
+    "https://swsg.co/en/",
+    "https://redsea.com/en/",
+    "https://www.extra.com/en-sa/",
+    "https://blackbox.com.sa/en/",
+    "https://www.virginmegastore.sa/en/",
+    "https://www.samma3a.com/saudi-en/",
+    "https://www.jarir.com/sa-en/",
+];
 
 let pStage = 0;
 let middleStage = false;
@@ -66,7 +66,7 @@ router.all("/scraping-product", async (req, res) => {
     baseUrl = arrayUrl[7];
     console.log(baseUrl);
 
-    if(baseUrl === "https://www.noon.com/saudi-en/") {
+    if (baseUrl === "https://www.noon.com/saudi-en/") {
         firstStr = "div.bannerContainer.bannerModule";
         secondStr = "div.productContainer";
 
@@ -84,7 +84,7 @@ router.all("/scraping-product", async (req, res) => {
         await console.log(" ===============  Scraping Done !!!!! =============");
         await shownData(ScrapingProduct);
 
-    } else if(baseUrl === "https://swsg.co/en/") {
+    } else if (baseUrl === "https://swsg.co/en/") {
         middleStage = false;
         firstLink = "a";
         secondLink = "ol.grid-product-type > li > div.item-inner > div.product-item-info > div.product-item-image > a";
@@ -96,7 +96,7 @@ router.all("/scraping-product", async (req, res) => {
         await initializeSimpleDB(pStage);
 
         const scrapingItem = await ScrapingProduct.find({});
-        for(let k = 0; k < scrapingItem.length; k ++) {
+        for (let k = 0; k < scrapingItem.length; k++) {
             goLink[k] = scrapingItem[k].scraping_store_address;
             console.log(k + 1, " -> ", goLink[k]);
         }
@@ -117,7 +117,7 @@ router.all("/scraping-product", async (req, res) => {
         for (const ele of items) {
             console.log(kl, " -> ", ele.scraping_store_address);
             await gettingFinalLink(0, secondLink, ele.scraping_store_address);
-            kl ++;
+            kl++;
         }
 
         /**
@@ -129,7 +129,7 @@ router.all("/scraping-product", async (req, res) => {
         await gettingScraping(nCount, sItems.length, baseUrl);
 
         await shownData(ScrapingProduct);
-    } else if(baseUrl === "https://redsea.com/en/") {
+    } else if (baseUrl === "https://redsea.com/en/") {
         middleStage = false;
 
         firstLink = "a";
@@ -142,7 +142,7 @@ router.all("/scraping-product", async (req, res) => {
         await initializeSimpleDB(pStage);
 
         const scrapingItem = await ScrapingProduct.find({});
-        for(let k = 0; k < scrapingItem.length; k ++) {
+        for (let k = 0; k < scrapingItem.length; k++) {
             goLink[k] = scrapingItem[k].scraping_store_address;
             console.log(k + 1, " -> ", goLink[k]);
         }
@@ -163,7 +163,7 @@ router.all("/scraping-product", async (req, res) => {
         await gettingScraping(nCount, sItems.length, baseUrl);
 
         // await gettingScraping(0, 22, baseUrl);
-    } else if(baseUrl === "https://www.extra.com/en-sa/") {
+    } else if (baseUrl === "https://www.extra.com/en-sa/") {
         firstLink = "a";
         secondLink = "ul > li > a";
 
@@ -173,7 +173,7 @@ router.all("/scraping-product", async (req, res) => {
         await initializeSimpleDB(pStage);
 
         const scrapingItem = await ScrapingProduct.find({});
-        for(let k = 0; k < scrapingItem.length; k ++) {
+        for (let k = 0; k < scrapingItem.length; k++) {
             goLink[k] = scrapingItem[k].scraping_store_address;
             console.log(k + 1, " -> ", goLink[k]);
         }
@@ -188,18 +188,18 @@ router.all("/scraping-product", async (req, res) => {
          * Getting the last Link
          */
         let sItems = await ScrapingProduct.find({});
-        for(const ele of sItems) {
-           console.log("\n\n Last Link ", ele.scraping_id, "  --- > ", ele.scraping_store_address);
+        for (const ele of sItems) {
+            console.log("\n\n Last Link ", ele.scraping_id, "  --- > ", ele.scraping_store_address);
             await gettingFinalLink(0, secondLink, ele.scraping_store_address);
-        }     
-        
+        }
+
         /**
-         * Getting description result      
+         * Getting description result
          */
         sItems = await ScrapingProduct.find({});
         let nCount = 0;
         await gettingScraping(nCount, sItems.length, baseUrl);
-    } else if(baseUrl === "https://blackbox.com.sa/en/") {
+    } else if (baseUrl === "https://blackbox.com.sa/en/") {
         firstLink = "a";
         secondLink = "ul > li > a";
 
@@ -209,7 +209,7 @@ router.all("/scraping-product", async (req, res) => {
         await initializeSimpleDB(pStage);
 
         const scrapingItem = await ScrapingProduct.find({});
-        for(let k = 0; k < scrapingItem.length; k ++) {
+        for (let k = 0; k < scrapingItem.length; k++) {
             goLink[k] = scrapingItem[k].scraping_store_address;
             console.log(k + 1, " -> ", goLink[k]);
         }
@@ -232,7 +232,7 @@ router.all("/scraping-product", async (req, res) => {
         /**
          *  6th Site Scraping
          */
-    } else if(baseUrl === "https://www.virginmegastore.sa/en/") {
+    } else if (baseUrl === "https://www.virginmegastore.sa/en/") {
         firstLink = "a";
         secondLink = "ul > li > a";
 
@@ -242,7 +242,7 @@ router.all("/scraping-product", async (req, res) => {
         await initializeSimpleDB(pStage);
 
         const scrapingItem = await ScrapingProduct.find({});
-        for(let k = 0; k < scrapingItem.length; k ++) {
+        for (let k = 0; k < scrapingItem.length; k++) {
             goLink[k] = scrapingItem[k].scraping_store_address;
             console.log(k + 1, " -> ", goLink[k]);
         }
@@ -260,7 +260,7 @@ router.all("/scraping-product", async (req, res) => {
         let nCount = 0;
         await gettingScraping(nCount, sItems.length, baseUrl);
         //await gettingScraping(86, 95, baseUrl);
-    } else if(baseUrl === "https://www.samma3a.com/saudi-en/") {
+    } else if (baseUrl === "https://www.samma3a.com/saudi-en/") {
         firstLink = "a";
         secondLink = "li.owl-item > a";
 
@@ -270,7 +270,7 @@ router.all("/scraping-product", async (req, res) => {
         //await initializeSimpleDB(pStage);
 
         const scrapingItem = await ScrapingProduct.find({});
-        for(let k = 0; k < scrapingItem.length; k ++) {
+        for (let k = 0; k < scrapingItem.length; k++) {
             goLink[k] = scrapingItem[k].scraping_store_address;
             console.log(k + 1, " -> ", goLink[k]);
         }
@@ -282,7 +282,7 @@ router.all("/scraping-product", async (req, res) => {
         //await gettingFinalLink(0, firstLink, baseUrl);
 
         sItems = await ScrapingProduct.find({});
-        for(let k = 0; k < sItems.length; k ++) {
+        for (let k = 0; k < sItems.length; k++) {
             console.log(k, ' -> ', sItems[k].scraping_store_address);
             //await gettingFinalLink(0, secondLink, sItems[k].scraping_store_address);
         }
@@ -298,7 +298,7 @@ router.all("/scraping-product", async (req, res) => {
         /**
          *  8th Site Scraping
          */
-    } else if(baseUrl === "https://www.jarir.com/sa-en/") {
+    } else if (baseUrl === "https://www.jarir.com/sa-en/") {
         firstLink = "a";
         secondLink = "li.owl-item > a";
 
@@ -308,7 +308,7 @@ router.all("/scraping-product", async (req, res) => {
         //await initializeSimpleDB(pStage);
 
         const scrapingItem = await ScrapingProduct.find({});
-        for(let k = 0; k < scrapingItem.length; k ++) {
+        for (let k = 0; k < scrapingItem.length; k++) {
             goLink[k] = scrapingItem[k].scraping_store_address;
             console.log(k + 1, " -> ", goLink[k]);
         }
@@ -344,41 +344,150 @@ router.all("/scraping-product-all", async (req, res) => {
 
     Filter.find({
         scraping_photo_link: {$regex: regLink},
-    }).then( scrapingList =>  {
-        if(scrapingList){
+    }).then(scrapingList => {
+        if (scrapingList) {
             return res.status(200).json({results: [...scrapingList]});
-        }
-        else{
+        } else {
             return res.status(400).json({msg: "The products can not find"});
         }
     });
 });
 
-router.all("/scraping-product-sort", (req, res) => {
+/**
+ * Popular products
+ */
+router.all("/get-popular-product", async (req, res) => {
+    Filter.find({})
+        .then(scrapingList => {
+            if (scrapingList) {
+                let sArray = [];
+                if (scrapingList.length < 8) {
+                    sArray = scrapingList;
+                } else {
+                    for (let k = 0; k < 8; k++) {
+                        sArray.push(scrapingList[k]);
+                    }
+                }
+                return res.status(200).json({results: sArray});
+            } else {
+                return res.status(400).json({msg: "The products can not find"});
+            }
+        }).catch(err => {
+        return res.status(400).json({msg: err.toString()});
+    })
+});
+
+/**
+ * Page products
+ */
+router.all("/get-page-product", async (req, res) => {
+    const data = {
+        $nor: [
+            {scraping_price: NaN},
+            {scraping_price: undefined},
+            {scraping_price: 0}
+        ]
+    };
+
+    const pagination = req.body.pagination ? parseInt(req.body.pagination) : 12;
+    const page_number = req.body.current_page ? parseInt(req.body.current_page) : 1;
+    const page_neighbours = req.body.page_neighbours ? parseInt(req.body.page_neighbours) : 1;
+
+    const total_list_count = await Filter.collection.countDocuments(data);
+    const total_page = Math.ceil(total_list_count / pagination);
+
+    const start_page = Math.max(1, page_number - page_neighbours);
+    const end_page = Math.min(total_page, page_number + page_neighbours);
+
+    const page_num = {
+        start_page: start_page,
+        end_page: end_page,
+        total_page: total_page,
+    };
+
+    Filter.aggregate([
+        {$match: data}
+    ])
+        .collation({locale: 'en', strength: 2})
+        .sort({scraping_price: 1})
+        .skip((page_number - 1) * pagination)
+        .limit(pagination)
+        .then(scrapingList => {
+            if (scrapingList) {
+                const result = {
+                    list: scrapingList,
+                    page_num: page_num,
+                };
+                return res.status(200).json({results: result});
+            } else {
+                return res.status(400).json({msg: "The products can not find"});
+            }
+        }).catch(err => {
+        return res.status(400).json({msg: err.toString()});
+    })
+});
+
+
+router.all("/scraping-product-sort", async (req, res) => {
+
     let pStr = req.body.category;
     let pSplit = pStr.split(' ');
 
     let mLen = pSplit.length;
     let reE = '^(?=.*\\b' + pSplit[0] + '\\b)';
 
-    for (let i = 1; i < mLen; i ++) {
+    for (let i = 1; i < mLen; i++) {
         reE += '(?=.*\\b' + pSplit[i] + '\\b)';
     }
     reE += '.*$';
     let rew = new RegExp(reE);
     let regLink = new RegExp('.+');
 
-    Filter.find({
+
+    const data = {
+        $nor: [
+            {scraping_price: NaN},
+            {scraping_price: undefined},
+            {scraping_price: 0}
+        ],
         scraping_category: {$regex: rew, $options: 'i/w'},
         scraping_photo_link: {$regex: regLink},
-    }).collation( { locale: 'en', strength: 2 } ).sort({scraping_price: 1}).then(scrapingSortList => {
-        if(scrapingSortList){
-            return res.status(200).json({results: [...scrapingSortList]});
-        }
-        else{
-            return res.status(400).json({msg: "The products can not find"});
-        }
-    });
+    };
+
+    const pagination = req.body.pagination ? parseInt(req.body.pagination) : 12;
+    const page_number = req.body.current_page ? parseInt(req.body.current_page) : 1;
+    const page_neighbours = req.body.page_neighbours ? parseInt(req.body.page_neighbours) : 1;
+
+    const total_list_count = await Filter.collection.countDocuments(data);
+    const total_page = Math.ceil(total_list_count / pagination);
+
+    const start_page = Math.max(1, page_number - page_neighbours);
+    const end_page = Math.min(total_page, page_number + page_neighbours);
+
+    const page_num = {
+        start_page: start_page,
+        end_page: end_page,
+        total_page: total_page,
+    };
+
+    Filter.aggregate([{$match: data}])
+        .collation({locale: 'en', strength: 2})
+        .sort({scraping_price: req.body.flag_sort? 1: -1})
+        .skip((page_number - 1) * pagination)
+        .limit(pagination)
+        .then(scrapingSortList => {
+            if (scrapingSortList) {
+
+                const result = {
+                    list: scrapingSortList,
+                    page_num: page_num,
+                };
+
+                return res.status(200).json({results: result});
+            } else {
+                return res.status(400).json({msg: "The products can not find"});
+            }
+        });
 });
 
 router.all("/delete-product", async (req, res) => {
@@ -400,7 +509,7 @@ async function mainScraping() {
         while (m < goLink.length) {
             await gettingFirstStageLink(firstStr, m);
             m = m + 1;
-            await console.log("\n 1st stage -> ",  goLink.length, '/' , m, "th", "   Passed \n");
+            await console.log("\n 1st stage -> ", goLink.length, '/', m, "th", "   Passed \n");
         }
 
         nCount_First = goLink.length;
@@ -430,7 +539,7 @@ async function mainScraping() {
         }
         nCount_Products = goLink.length;
 
-    } else if ( nth === 3) {
+    } else if (nth === 3) {
         nCount_First = m;
         nCount_Products = await ScrapingProduct.countDocuments();
         console.log(nCount_Products, '+++++++++')
@@ -452,19 +561,19 @@ async function initializeDB(type_new, type_repeat) {
         });
 
         await scraping_ProductOne.save();
-        await console.log( " === +++++++++++++++++++++++++++++++ === Total/Start -> ", await ScrapingProduct.countDocuments(), '/', m + 1, 'th');
+        await console.log(" === +++++++++++++++++++++++++++++++ === Total/Start -> ", await ScrapingProduct.countDocuments(), '/', m + 1, 'th');
 
     } else if ((type_new === false && type_repeat === true) && (m > 0)) {  // using the previous results
 
-        await ScrapingProduct.find({}).then( async arrayLink => {
+        await ScrapingProduct.find({}).then(async arrayLink => {
             let t = arrayLink.length;
 
-            for( let i = 0; i < t; i ++) {
+            for (let i = 0; i < t; i++) {
                 goLink[i] = arrayLink[i].scraping_store_address;
             }
         });
 
-        await console.log( " === +++++++++++++++++++++++++++++++ ===  Total/Start ", goLink.length, '/', m + 1);
+        await console.log(" === +++++++++++++++++++++++++++++++ ===  Total/Start ", goLink.length, '/', m + 1);
 
     } else {
         return res.status(200).json("Conflict of the condition");
@@ -476,7 +585,7 @@ async function gettingFirstStageLink(pStr, mIndex) {
         const result = await axios.get(goLink[mIndex]);
         let $ = await cheerio.load(result.data);
 
-        await $(pStr).each( function() {
+        await $(pStr).each(function () {
             if ($(this).find('a').attr('href') !== undefined) {
                 mLen = goLink.length;
 
@@ -497,7 +606,7 @@ async function gettingFirstStageLink(pStr, mIndex) {
 
     } catch (error) {
 
-        if(error.response === undefined) {
+        if (error.response === undefined) {
             console.log("Site Error - Un-existing Product Url");
             return 0;
         }
@@ -515,9 +624,9 @@ async function gettingFirstStageLink(pStr, mIndex) {
  * @returns {Promise<void>}
  */
 async function gettingScraping(nFirst, nSecond, bUrl) {
-    for (let i = nFirst; i <= nSecond; i ++) {
+    for (let i = nFirst; i <= nSecond; i++) {
         try {
-            if(i === 0) i = 1;
+            if (i === 0) i = 1;
 
             const result = await axios.get(goLink[i - 1]);
             let $ = await cheerio.load(result.data);
@@ -528,13 +637,13 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
             let categoryList = '';
             let sCategory, txtCategory;
 
-            if(baseUrl === "https://www.noon.com/saudi-en/") {
+            if (baseUrl === "https://www.noon.com/saudi-en/") {
                 sCategory = "div.breadcrumbContainer > div > div.breadcrumb";
                 txtCategory = "span.crumb > a";
 
-                await $(sCategory).each(async function( index ) {
+                await $(sCategory).each(async function (index) {
                     // await sleep(1000);
-                    $(txtCategory).each( function( index ) {
+                    $(txtCategory).each(function (index) {
                         if ($(this).text() !== undefined) {
                             categoryList += $(this).text() + '/';
                             categoryList = categoryList.replace(' & ', '/');
@@ -546,11 +655,11 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                     mArray = [...new Set(mArray)];
 
                     categoryList = '';
-                    for (let j = 0; j < mArray.length - 1; j ++) {
+                    for (let j = 0; j < mArray.length - 1; j++) {
                         categoryList += mArray[j] + '/';
                     }
                 });
-                console.log(goLink[i - 1], i, " = " , categoryList);
+                console.log(goLink[i - 1], i, " = ", categoryList);
 
                 /**
                  * Getting the details information
@@ -563,35 +672,43 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 let productDescription = await $(sInfo).find("div.coreWrapper > div > h1").text().trim();
                 let productPrice = await $(sInfo).find("div.coreWrapper > div > div.priceRow > div.pdpPrice > p > span.value > span.sellingPriceContainer > span.sellingPrice > span > span").text().trim();
 
-                await ScrapingProduct.updateOne({scraping_store_address: goLink[i-1]},
-                    [{$set: {scraping_category: categoryList, scraping_name: productName, scraping_photo_link: photoLink,
-                        scraping_description: productDescription, scraping_price: productPrice, scraping_thumbnail_Link: thumbnailPhotoLink}}]).then(async () => {
-                            console.log(i, "    ------> ", goLink[i-1]);
+                await ScrapingProduct.updateOne({scraping_store_address: goLink[i - 1]},
+                    [{
+                        $set: {
+                            scraping_category: categoryList,
+                            scraping_name: productName,
+                            scraping_photo_link: photoLink,
+                            scraping_description: productDescription,
+                            scraping_price: productPrice,
+                            scraping_thumbnail_Link: thumbnailPhotoLink
+                        }
+                    }]).then(async () => {
+                    console.log(i, "    ------> ", goLink[i - 1]);
                 });
 
                 await console.log("\n 3rd stage -> ", goLink.length, '/', i, "th   Passed \n");
 
-            } else if (baseUrl === "https://swsg.co/en/"){
+            } else if (baseUrl === "https://swsg.co/en/") {
 
                 sCategory = "div.breadcrumbs > div.container > ul.items > li.item";
                 let productDescription = '';
                 let categoryList = '';
 
-                await $(sCategory).each(function( ) {
+                await $(sCategory).each(function () {
                     let sTag = $(this).attr('class');
                     let sAdding = $(this).text().trim();
 
-                    if(sTag.includes('product') === true) {
+                    if (sTag.includes('product') === true) {
                         productDescription = sAdding;
-                    } else if(sTag.includes('category') === true) {
+                    } else if (sTag.includes('category') === true) {
                         categoryList += sAdding + '/';
                     }
                 });
 
-                if(categoryList === '') {
+                if (categoryList === '') {
                     let pSlice = productDescription.replace(',', '').split(' ');
 
-                    for (let k = 0; k < pSlice.length; k ++) {
+                    for (let k = 0; k < pSlice.length; k++) {
                         categoryList += pSlice[k] + '/';
                     }
                 }
@@ -600,33 +717,37 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
 
                 let productName = $("div.product-info-stock-sku > div:nth-child(4) > div").text().trim();
 
-                if(productName === "") {
+                if (productName === "") {
                     productName = $("div.product-info-main > div.product.attribute.overview > div.value").text().trim();
                     let m = productName.indexOf("Model");
                     productName = productName.slice(8, m).trim();
                 }
-                let productPrice = $("div.product-info-main > div.product-info-price > div:nth-child(3) > span.special-price > span.price-container > span.price-wrapper > span.price").text().trim().slice(3, );
+                let productPrice = $("div.product-info-main > div.product-info-price > div:nth-child(3) > span.special-price > span.price-container > span.price-wrapper > span.price").text().trim().slice(3,);
 
-                if(productPrice === "") {
-                    productPrice = $("div.product-info-main > div.product-info-price > div:nth-child(3) > span.price-container > span.price-wrapper > span.price").text().trim().slice(3, );
+                if (productPrice === "") {
+                    productPrice = $("div.product-info-main > div.product-info-price > div:nth-child(3) > span.price-container > span.price-wrapper > span.price").text().trim().slice(3,);
                 }
                 console.log(productName, productPrice);
 
-                await ScrapingProduct.updateOne({scraping_store_address: goLink[i-1]},
-                    [{$set: {scraping_category: categoryList, scraping_name: productName,
-                            scraping_description: productDescription, scraping_price: productPrice}}]).then(async () => {
-                    console.log(i, "    ------> ", goLink[i-1]);
+                await ScrapingProduct.updateOne({scraping_store_address: goLink[i - 1]},
+                    [{
+                        $set: {
+                            scraping_category: categoryList, scraping_name: productName,
+                            scraping_description: productDescription, scraping_price: productPrice
+                        }
+                    }]).then(async () => {
+                    console.log(i, "    ------> ", goLink[i - 1]);
                 });
-            } else if (baseUrl === "https://redsea.com/en/"){
-                console.log(i, " -> " , goLink[i - 1]);
+            } else if (baseUrl === "https://redsea.com/en/") {
+                console.log(i, " -> ", goLink[i - 1]);
 
                 sCategory = "div.breadcrumbs > ul.items > li.item";
                 let categoryList = '';
-                await $(sCategory).each(function( ) {
+                await $(sCategory).each(function () {
                     let sTag = $(this).attr('class');
                     let sAdding = $(this).text().trim();
 
-                    if(sTag.includes('category') === true) {
+                    if (sTag.includes('category') === true) {
                         categoryList += sAdding + '/';
                         categoryList = categoryList.replace(' & ', '/');
                     }
@@ -635,12 +756,12 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 let sPage = "#amasty-shopby-product-list > div:nth-child(3) > div.pages > ul.pages-items > li:nth-last-child(2) > a > span:nth-child(2)";
                 console.log("pages -> ", await $(sPage).text().trim());
                 let nPage = await $(sPage).text().trim();
-                let pLink = goLink[i-1].slice(0, goLink[i-1].length - 23);
+                let pLink = goLink[i - 1].slice(0, goLink[i - 1].length - 23);
 
                 let linkArray = [];
-                linkArray.push(goLink[i-1]);
-                if(nPage !== "undefined") {
-                    for(let t = 2; t <= nPage; t ++) {
+                linkArray.push(goLink[i - 1]);
+                if (nPage !== "undefined") {
+                    for (let t = 2; t <= nPage; t++) {
                         let sCon = pLink + "?p=" + t.toString() + "&product_list_mode=list";
                         linkArray.push(sCon);
                     }
@@ -649,19 +770,19 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 }
 
                 let productItem = "div.products-list > ol.product-items > li.product-item > div.product-item-info";
-                for(let t = 0; t < nPage; t ++) {
+                for (let t = 0; t < nPage; t++) {
                     const result = await axios.get(linkArray[t]);
                     let $ = await cheerio.load(result.data);
                     let nCount = 0;
-                    
-                    await $(productItem).each(function( ) {
-                        nCount ++;
+
+                    await $(productItem).each(function () {
+                        nCount++;
                         let sTag = $(this).find("div.product-wrap-shadow > a").attr("href");
                         let sPhoto = $(this).find("div.product-wrap-shadow > a > span > span > img").attr("src");
                         let sName = $(this).find("div.product-item-details > strong > a").text().trim();
                         let sDescription = $(this).find("div.product-item-details > div").text().trim();
                         let sPrice = $(this).find("div.price-more > div > span:nth-child(1) > span > span").text().trim();
-                        sPrice = sPrice.replace("Special Price", "").replace(",", "").replace("SR", "").replace(" ", "").slice(1, );
+                        sPrice = sPrice.replace("Special Price", "").replace(",", "").replace("SR", "").replace(" ", "").slice(1,);
 
                         mLen = goLink.length;
                         goLink.push(sTag);
@@ -677,9 +798,9 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                                 scraping_description: sDescription,
                                 scraping_price: sPrice,
                             });
-                            
-                            scraping_Product.save();  
-                            
+
+                            scraping_Product.save();
+
                             console.log("********    ", i, "   **************   ", t + 1, "    ********************   ", nCount, "   *************");
                             console.log("*************************************************************************************");
                             console.log("        Link = ", sTag);
@@ -688,27 +809,27 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                             console.log("       sName = ", sName);
                             console.log("sDescription = ", sDescription);
                             console.log("      sPrice = ", sPrice);
-                        }   
-                        
+                        }
+
                     });
                 }
-            } else if (baseUrl === "https://www.extra.com/en-sa/"){
-                console.log(i, " ------> " , goLink[i - 1]);
+            } else if (baseUrl === "https://www.extra.com/en-sa/") {
+                console.log(i, " ------> ", goLink[i - 1]);
                 let categoryList = '';
                 let linkArray = [];
-                linkArray.push(goLink[i-1]);
+                linkArray.push(goLink[i - 1]);
                 nPage = 1;
                 console.log(linkArray);
 
                 let productItem = "div.js-product-tile > div > a";
-                for(let t = 0; t < nPage; t ++) {
+                for (let t = 0; t < nPage; t++) {
 
                     const result = await axios.get(linkArray[t]);
                     let $ = await cheerio.load(result.data);
                     let nCount = 0;
 
-                    await $(productItem).each(function( ) {
-                        nCount ++;
+                    await $(productItem).each(function () {
+                        nCount++;
                         let sTag = $(this).attr("href");
                         let addressLink = "https://www.extra.com" + sTag;
 
@@ -716,7 +837,7 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                         let sLen = sTag.indexOf("/p/");
                         sTag = sTag.slice(0, sLen).split("/");
                         categoryList = "";
-                        for(let j = 0; j < sTag.length - 1; j ++) {
+                        for (let j = 0; j < sTag.length - 1; j++) {
                             categoryList += sTag[j].replace('-', '/').replace("and-/", '/') + "/";
                         }
                         categoryList = categoryList.replace("home/", '').replace("-/", '/').replace('-', '/').replace("//", "/");
@@ -727,7 +848,7 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                         let sPrice = "";
                         sPrice = $(this).find("div.item-middle > div.item-middle-right > div > div.right-content > div.c_product-price > div.c_product-price-prices > div.c_product-price-current").text().trim();
 
-                        if(sPrice === "") {
+                        if (sPrice === "") {
                             sPrice = $(this).find("div.item-middle > div.item-middle-right > div > div.right-content > div.c_product-price > div.c_product-price-current").text().trim();
                         }
 
@@ -759,16 +880,16 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                         }
                     });
                 }
-            } else if (baseUrl === "https://blackbox.com.sa/en/"){
+            } else if (baseUrl === "https://blackbox.com.sa/en/") {
 
-                console.log(i, " ------> " , goLink[i - 1]);
+                console.log(i, " ------> ", goLink[i - 1]);
                 let categoryList = '';
                 sCategory = "div.breadcrumbs > div.container > ul.items > li.item";
-                await $(sCategory).each(function( ) {
+                await $(sCategory).each(function () {
                     let sTag = $(this).attr('class');
                     let sAdding = $(this).text().trim();
 
-                    if(sTag.includes('category') === true) {
+                    if (sTag.includes('category') === true) {
                         categoryList += sAdding + '/';
                     }
                 });
@@ -779,11 +900,11 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 let nPage = await $(sPage).text();
 
                 let linkArray = [];
-                linkArray.push(goLink[i-1]);
-                if(nPage.length !== 0) {
-                    for(let t = 2; t <= nPage; t ++) {
+                linkArray.push(goLink[i - 1]);
+                if (nPage.length !== 0) {
+                    for (let t = 2; t <= nPage; t++) {
                         let sT = "&p=" + t.toString();
-                        let sCon = goLink[i-1] + sT;
+                        let sCon = goLink[i - 1] + sT;
                         linkArray.push(sCon);
                     }
                 } else {
@@ -792,19 +913,19 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 console.log(linkArray);
 
                 let productItem = "ol > li.product-item > div.product-item-info > div.item-inner";
-                for(let t = 0; t < nPage; t ++) {
+                for (let t = 0; t < nPage; t++) {
                     const result = await axios.get(linkArray[t]);
                     let $ = await cheerio.load(result.data);
                     let nCount = 0;
 
-                    await $(productItem).each(function( ) {
-                        nCount ++;
+                    await $(productItem).each(function () {
+                        nCount++;
                         let addressLink = $(this).find("div.box-image-list > a").attr("href");
                         let sPhoto = $(this).find("div.box-image-list > a > span > span > img").attr("src");
                         let sName = $(this).find("div.product-item-details > h3").text().trim();
                         let sDescription = $(this).find("div.product-item-inner > div > ul > li").text().trim();
 
-                        if(sDescription === "") {
+                        if (sDescription === "") {
                             sDescription = $(this).find("div.product-item-details > div.product-item-inner > div > p").text().trim();
                             sDescription = sDescription.replace("•", ", ");
                         }
@@ -814,7 +935,7 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                         let sPrice = "";
                         sPrice = $(this).find("div.price-box > span.special-price > span.price-container > span > span.price").text().trim();
 
-                        if(sPrice === "") {
+                        if (sPrice === "") {
                             sPrice = $(this).find("div.product-item-details > div.price-box > span.price-container > span > span.price").text().trim();
                         }
                         sPrice = sPrice.replace("SAR", "").trim();
@@ -851,16 +972,16 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 /**
                  * 6th Site Scraping
                  */
-            } else if (baseUrl === "https://www.virginmegastore.sa/en/"){
-                console.log(i, " ------> " , goLink[i - 1]);
+            } else if (baseUrl === "https://www.virginmegastore.sa/en/") {
+                console.log(i, " ------> ", goLink[i - 1]);
                 let categoryList = '';
                 let linkArray = [];
-                linkArray.push(goLink[i-1]);
+                linkArray.push(goLink[i - 1]);
 
                 sCategory = "div.breadcrumb-list > div.breadcrumb-list__item";
-                await $(sCategory).each(function( ) {
+                await $(sCategory).each(function () {
                     let sAdding = $(this).text().trim().replace(" & ", "/").replace(" + ", "/").replace(" ", "/").replace("Home", "");
-                    if(sAdding !== ""){
+                    if (sAdding !== "") {
                         categoryList += sAdding + '/';
                     }
                 });
@@ -874,13 +995,13 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 nProducts = nProducts.slice(0, nProducts.search("Products") - 1).trim().replace(",", "");
                 console.log(nProducts);
 
-                if(nPage.length !== 0) {
-                    for(let t = 1; t < nProducts/100 ; t ++) {
+                if (nPage.length !== 0) {
+                    for (let t = 1; t < nProducts / 100; t++) {
                         let sT = "?q=:page=1&page=" + t.toString();
                         let nPos = goLink[i - 1].search('/c/K') + 10;
-                        let sCon = goLink[i-1].slice(0, nPos) + sT;
+                        let sCon = goLink[i - 1].slice(0, nPos) + sT;
                         linkArray.push(sCon);
-                        nP ++;
+                        nP++;
                     }
                 } else {
                     nPage = 1;
@@ -888,14 +1009,14 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 console.log(linkArray);
 
                 let productItem = "ul.product-list__item-wrapper > li.product-list__item";
-                for(let t = 0; t < nProducts/100; t ++) {
+                for (let t = 0; t < nProducts / 100; t++) {
 
                     const result = await axios.get(linkArray[t]);
                     let $ = await cheerio.load(result.data);
                     let nCount = 0;
 
-                    await $(productItem).each(function( ) {
-                        nCount ++;
+                    await $(productItem).each(function () {
+                        nCount++;
                         let sTag = $(this).find("a").attr("href");
                         let addressLink = "https://www.virginmegastore.sa" + sTag;
 
@@ -931,20 +1052,20 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                         }
                     });
                 }
-            } else if (baseUrl === "https://www.samma3a.com/saudi-en/"){
-                console.log(i, " -----> " , goLink[i - 1]);
+            } else if (baseUrl === "https://www.samma3a.com/saudi-en/") {
+                console.log(i, " -----> ", goLink[i - 1]);
                 let categoryList = '';
                 let linkArray = [];
-                linkArray.push(goLink[i-1]);
+                linkArray.push(goLink[i - 1]);
 
                 sCategory = "div.breadcrumbs > ul.items > li.item";
                 let sName = "";
-                await $(sCategory).each(function( ) {
+                await $(sCategory).each(function () {
                     let sTag = $(this).attr('class');
                     sName = $(this).text().trim();
                     let sAdding = sName.replace(" ", "/");
 
-                    if(sTag.includes("category") === true){
+                    if (sTag.includes("category") === true) {
                         categoryList += sAdding + '/';
                     }
                 });
@@ -954,10 +1075,10 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 let nPage = await $(sPage).text().replace("Page", "").trim();
                 console.log("nPage = ", nPage);
 
-                if(nPage.length !== 0) {
-                    for(let t = 1; t < nPage ; t ++) {
+                if (nPage.length !== 0) {
+                    for (let t = 1; t < nPage; t++) {
                         let sT = "?p=" + (t + 1).toString();
-                        let sCon = goLink[i-1] + sT;
+                        let sCon = goLink[i - 1] + sT;
                         linkArray.push(sCon);
                     }
                 } else {
@@ -966,14 +1087,14 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 console.log(linkArray);
 
                 let productItem = "div.products-grid > ol.product-items > li.product-item > div.product-item-info";
-                for(let t = 0; t < nPage; t ++) {
+                for (let t = 0; t < nPage; t++) {
 
                     const result = await axios.get(linkArray[t]);
                     let $ = await cheerio.load(result.data);
                     let nCount = 0;
 
-                    await $(productItem).each(function( ) {
-                        nCount ++;
+                    await $(productItem).each(function () {
+                        nCount++;
                         let addressLink = $(this).find("div.product-item-photo > a").attr("href");
 
                         let sPhoto = $(this).find("div.product-item-photo > a > img").attr("src");
@@ -982,7 +1103,7 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                         let sPrice = "";
                         sPrice = $(this).find("div.product-item-details > div.price-final_price > span > span.price-wrapper> span.price").text().trim().replace(",", "").replace("SAR", "").replace("AED", "");
 
-                        if(sPrice === "") {
+                        if (sPrice === "") {
                             sPrice = $(this).find("div.product-item-details > div.price-final_price > span.special-price > span.price-final_price > span.price-wrapper> span.price").text().trim().replace(",", "").replace("SAR", "").replace("AED", "");
                         }
 
@@ -1016,20 +1137,20 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 /**
                  * 8th Site Scraping
                  */
-            } else if (baseUrl === "https://www.jarir.com/sa-en/"){
-                console.log(i, " -----> " , goLink[i - 1]);
+            } else if (baseUrl === "https://www.jarir.com/sa-en/") {
+                console.log(i, " -----> ", goLink[i - 1]);
                 let categoryList = '';
                 let linkArray = [];
-                linkArray.push(goLink[i-1]);
+                linkArray.push(goLink[i - 1]);
 
                 sCategory = "ul.breadcrumbs > li";
                 let sName = "";
-                await $(sCategory).each(function() {
+                await $(sCategory).each(function () {
                     let sTag = $(this).attr('class');
                     sName = $(this).text().trim();
                     let sAdding = sName.replace(" ", "/").replace(" & ", "/");
 
-                    if(sTag.includes("category") === true){
+                    if (sTag.includes("category") === true) {
                         categoryList += sAdding + '/';
                     }
                 });
@@ -1069,14 +1190,14 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                 // console.log(linkArray);
                 //
                 let productItem = "div.category-products > ul.products-grid > li.item";
-                for(let t = 0; t < nPage; t ++) {
+                for (let t = 0; t < nPage; t++) {
 
                     const result = await axios.get(linkArray[t]);
                     let $ = await cheerio.load(result.data);
                     let nCount = 0;
 
-                    await $(productItem).each(function( ) {
-                        nCount ++;
+                    await $(productItem).each(function () {
+                        nCount++;
                         let addressLink = $(this).find("a").attr("href");
 
                         let sPhoto = $(this).find("a > img").attr("data-src");
@@ -1113,11 +1234,11 @@ async function gettingScraping(nFirst, nSecond, bUrl) {
                             });
                             scraping_Product.save();
                         }
-                     });
+                    });
                 }
             }
         } catch (error) {
-            if(error.response === undefined) {
+            if (error.response === undefined) {
                 console.log('3rd stage -> ', error.name);
             }
         }
@@ -1136,11 +1257,10 @@ async function shownData(pDbName) {
         scraping_photo_link: {$regex: regLink},
         scraping_name: {$regex: regLink},
         scraping_category: {$regex: regLink},
-    }).then( scrapingItems =>  {
-        if(scrapingItems){
+    }).then(scrapingItems => {
+        if (scrapingItems) {
 
-            for (let i = 0; i < scrapingItems.length; i ++)
-            {
+            for (let i = 0; i < scrapingItems.length; i++) {
                 const scraping_Product = new Filter({
                     scraping_id: scrapingItems[i].scraping_id,
                     scraping_store_address: scrapingItems[i].scraping_store_address,
@@ -1188,7 +1308,7 @@ async function initializeSimpleDB(pStage) {
 
         await scraping_ProductOne.save();
 
-        await console.log( " === +++++++ === Total/Start -> ", await ScrapingProduct.countDocuments(), '/', m + 1, 'th');
+        await console.log(" === +++++++ === Total/Start -> ", await ScrapingProduct.countDocuments(), '/', m + 1, 'th');
 
     } else {
         return res.status(200).json("Conflict of the condition");
@@ -1202,18 +1322,18 @@ async function initializeSimpleDB(pStage) {
  * @returns {Promise<number>}
  */
 async function gettingFinalLink(iM, matchStr, bUrl) {
-    if(baseUrl === "https://swsg.co/en/") {
+    if (baseUrl === "https://swsg.co/en/") {
         try {
             const result = await axios.get(bUrl);
             let $ = await cheerio.load(result.data);
-    
+
             const aTags = $(matchStr);
             let photoLink = '';
-    
-            for(let kk = 0; kk < aTags.length; kk++) {
-    
+
+            for (let kk = 0; kk < aTags.length; kk++) {
+
                 let aStr = await aTags[kk]['attribs']['href'];
-                if(middleStage === true) {
+                if (middleStage === true) {
                     try {
                         //photoLink = await aTags[kk].find("span.product-image-wrapper > img").attr('data-src');
                         //console.log("*****************", await sLinks[kk]['attribs']['data-src']);
@@ -1222,15 +1342,15 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         console.log(e);
                     }
                 }
-    
+
                 try {
-                    if ((aStr !== undefined) && (aStr.includes(baseUrl) === true) && (aStr.slice(aStr.length - 13, ).includes("#review") === false)) {
+                    if ((aStr !== undefined) && (aStr.includes(baseUrl) === true) && (aStr.slice(aStr.length - 13,).includes("#review") === false)) {
                         mLen = goLink.length;
                         goLink.push(aStr);
                         goLink = [...new Set(goLink)];
-    
-                        if(mLen < goLink.length) {
-                            if(middleStage === true) {
+
+                        if (mLen < goLink.length) {
+                            if (middleStage === true) {
                                 const scraping_Product = new ScrapingProduct({
                                     scraping_id: goLink.length,
                                     scraping_store_address: goLink[goLink.length - 1],
@@ -1244,18 +1364,19 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                                 });
                                 await scraping_Product.save();
                             }
-    
+
                             console.log(goLink.length, ' -> ', aStr, '\n');
                             console.log('LINK =====', photoLink);
                         }
                     }
-    
-                } catch (e) {}
+
+                } catch (e) {
+                }
             }
-    
-            if((aTags.length === 0) && (middleStage === true)){
+
+            if ((aTags.length === 0) && (middleStage === true)) {
                 photoLink = await $(this).find('div.fotorama__stage__shaft > div.fotorama__stage__frame > img').attr('data-src');
-                if(photoLink !== undefined) {
+                if (photoLink !== undefined) {
                     goLink.push(bUrl);
                     console.log("LINK = ", photoLink);
                     const scraping_Product = new ScrapingProduct({
@@ -1263,7 +1384,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         scraping_store_address: goLink[goLink.length - 1],
                         scraping_photo_link: photoLink,
                     });
-    
+
                     await scraping_Product.save();
                     console.log(goLink.length, ' -> ', bUrl, '\n');
                 }
@@ -1276,33 +1397,34 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
         try {
             const result = await axios.get(bUrl);
             let $ = await cheerio.load(result.data);
-    
+
             const aTags = $(matchStr);
-    
-            for(let kk = 0; kk < aTags.length; kk++) {
-    
+
+            for (let kk = 0; kk < aTags.length; kk++) {
+
                 let aStr = await aTags[kk]['attribs']['href'];
                 aStr += "?product_list_mode=list";
-    
+
                 try {
                     if ((aStr !== undefined) && (aStr.includes(baseUrl) === true) && (aStr.includes(".html") === true)) {
                         mLen = goLink.length;
                         goLink.push(aStr);
                         goLink = [...new Set(goLink)];
-    
-                        if(mLen < goLink.length) {
+
+                        if (mLen < goLink.length) {
 
                             const scraping_Product = new ScrapingProduct({
                                 scraping_id: goLink.length,
                                 scraping_store_address: goLink[goLink.length - 1],
                             });
-                            await scraping_Product.save();                            
-    
+                            await scraping_Product.save();
+
                             console.log(goLink.length, ' -> ', aStr, '\n');
                         }
                     }
-    
-                } catch (e) {}
+
+                } catch (e) {
+                }
             }
         } catch (error) {
             await sleep(1500);
@@ -1313,32 +1435,33 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
             const result = await axios.get(bUrl);
             let $ = await cheerio.load(result.data);
 
-            const aTags = $(matchStr);           
+            const aTags = $(matchStr);
 
-            for(let kk = 0; kk < aTags.length; kk++) {
-    
-                let aStr = await aTags[kk]['attribs']['href'];    
-    
+            for (let kk = 0; kk < aTags.length; kk++) {
+
+                let aStr = await aTags[kk]['attribs']['href'];
+
                 try {
                     // if ((aStr !== undefined) && (aStr.includes(baseUrl) === true) && (aStr.includes(".html") === true)) {
                     if ((aStr !== undefined) && (aStr.includes("/en-sa/") === true)) {
                         mLen = goLink.length;
                         goLink.push("https://www.extra.com" + aStr);
                         goLink = [...new Set(goLink)];
-    
-                        if(mLen < goLink.length) {
+
+                        if (mLen < goLink.length) {
 
                             const scraping_Product = new ScrapingProduct({
                                 scraping_id: goLink.length,
                                 scraping_store_address: goLink[goLink.length - 1],
                             });
-                            await scraping_Product.save();                            
-    
+                            await scraping_Product.save();
+
                             console.log(goLink.length, ' -> ', aStr, '\n');
                         }
                     }
-    
-                } catch (e) {}
+
+                } catch (e) {
+                }
             }
         } catch (error) {
             await sleep(1500);
@@ -1351,7 +1474,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
 
             const aTags = $(matchStr);
 
-            for(let kk = 0; kk < aTags.length; kk++) {
+            for (let kk = 0; kk < aTags.length; kk++) {
 
                 let aStr = await aTags[kk]['attribs']['href'];
 
@@ -1359,7 +1482,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                     // if ((aStr !== undefined) && (aStr.includes(baseUrl) === true) && (aStr.includes(".html") === true)) {
                     if ((aStr !== undefined) && (aStr.includes(".html#review") === false)) {
                         mLen = goLink.length;
-                        if((middleStage === true) && (aStr.includes(".html") === true)) {
+                        if ((middleStage === true) && (aStr.includes(".html") === true)) {
                             aStr = aStr + "?product_list_mode=list";
                         }
 
@@ -1367,7 +1490,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
 
                         goLink = [...new Set(goLink)];
 
-                        if(mLen < goLink.length) {
+                        if (mLen < goLink.length) {
 
                             const scraping_Product = new ScrapingProduct({
                                 scraping_id: goLink.length,
@@ -1379,7 +1502,8 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         }
                     }
 
-                } catch (e) {}
+                } catch (e) {
+                }
             }
         } catch (error) {
             await sleep(1500);
@@ -1396,7 +1520,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
 
             const aTags = $(matchStr);
 
-            for(let kk = 0; kk < aTags.length; kk++) {
+            for (let kk = 0; kk < aTags.length; kk++) {
                 let aStr = await aTags[kk]['attribs']['href'];
                 try {
                     if ((aStr !== undefined) && (aStr.includes("http") === false) && (aStr.includes("/") === true)) {
@@ -1407,7 +1531,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         goLink.push(aStr);
                         goLink = [...new Set(goLink)];
 
-                        if(mLen < goLink.length) {
+                        if (mLen < goLink.length) {
 
                             const scraping_Product = new ScrapingProduct({
                                 scraping_id: goLink.length,
@@ -1419,7 +1543,8 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         }
                     }
 
-                } catch (e) {}
+                } catch (e) {
+                }
             }
         } catch (error) {
             await sleep(1500);
@@ -1436,7 +1561,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
             const aTags = $(matchStr);
             console.log(aTags.length);
 
-            for(let kk = 0; kk < aTags.length; kk++) {
+            for (let kk = 0; kk < aTags.length; kk++) {
                 let aStr = await aTags[kk]['attribs']['href'];
                 try {
                     if ((aStr !== undefined) && (aStr.includes(".html") === true) && (aStr.includes("samma3a") === true)) {
@@ -1445,7 +1570,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         goLink.push(aStr);
                         goLink = [...new Set(goLink)];
 
-                        if(mLen < goLink.length) {
+                        if (mLen < goLink.length) {
 
                             const scraping_Product = new ScrapingProduct({
                                 scraping_id: goLink.length,
@@ -1457,7 +1582,8 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         }
                     }
 
-                } catch (e) {}
+                } catch (e) {
+                }
             }
         } catch (error) {
             await sleep(1500);
@@ -1475,7 +1601,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
             const aTags = $(matchStr);
             console.log(aTags.length);
 
-            for(let kk = 0; kk < aTags.length; kk++) {
+            for (let kk = 0; kk < aTags.length; kk++) {
                 let aStr = await aTags[kk]['attribs']['href'];
                 try {
                     if ((aStr !== undefined) && (aStr.includes(".html") === true) && (aStr.includes("jarir.com") === true)) {
@@ -1484,7 +1610,7 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         goLink.push(aStr);
                         goLink = [...new Set(goLink)];
 
-                        if(mLen < goLink.length) {
+                        if (mLen < goLink.length) {
 
                             const scraping_Product = new ScrapingProduct({
                                 scraping_id: goLink.length,
@@ -1496,7 +1622,8 @@ async function gettingFinalLink(iM, matchStr, bUrl) {
                         }
                     }
 
-                } catch (e) {}
+                } catch (e) {
+                }
             }
         } catch (error) {
             await sleep(1500);

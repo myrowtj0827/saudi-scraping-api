@@ -23,6 +23,8 @@ router.all("/register-product", async (req, res) => {
 router.all("/get-product-all", async (req, res) => {
     Filter.find({}).then( productList =>  {
         if(productList){
+            // console.log("products List -> ", productList);
+
             return res.status(200).json({results: [...productList]});
         }
         else{
